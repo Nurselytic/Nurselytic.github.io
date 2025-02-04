@@ -1,5 +1,5 @@
 # Home
-<link rel="stylesheet" href="https://nurselytic.com/wp-content/themes/astra/style.css">
+
 <head>
   <style>
   @import url('https://nurselytic.com/wp-content/themes/astra/style.css');
