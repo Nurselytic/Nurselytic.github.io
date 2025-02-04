@@ -1,12 +1,14 @@
 
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en-US">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11"> 
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Nursing Test Bank for ATI TEAS 7, HESI A2, and NCLEX Exams</title>
 	<meta name="description" content="Explore Comprehensive Nursing Test Bank on all the Nursing Entry Exams, Nursing Specialty Exams and the NCLEX" class="yoast-seo-meta-tag" />
 	<link rel="canonical" href="https://nurselytic.com/" class="yoast-seo-meta-tag" />
@@ -22,8 +24,7 @@
 	<meta property="og:image:height" content="500" class="yoast-seo-meta-tag" />
 	<meta property="og:image:type" content="image/png" class="yoast-seo-meta-tag" />
 	<meta name="twitter:card" content="summary_large_image" class="yoast-seo-meta-tag" />
-
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://nurselytic.com/","url":"https://nurselytic.com/","name":"Nursing Test Bank for ATI TEAS 7, HESI A2, and NCLEX Exams","isPartOf":{"@id":"https://nurselytic.com/#website"},"about":{"@id":"https://nurselytic.com/#organization"},"primaryImageOfPage":{"@id":"https://nurselytic.com/#primaryimage"},"image":{"@id":"https://nurselytic.com/#primaryimage"},"thumbnailUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","datePublished":"2024-11-25T08:50:31+00:00","dateModified":"2025-01-14T06:03:32+00:00","description":"Explore Comprehensive Nursing Test Bank on all the Nursing Entry Exams, Nursing Specialty Exams and the NCLEX","breadcrumb":{"@id":"https://nurselytic.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://nurselytic.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://nurselytic.com/#primaryimage","url":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","contentUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","width":500,"height":500,"caption":"Nursing Test Bank Nurselytic ATI TEAS 7, HESI A2 Exam"},{"@type":"BreadcrumbList","@id":"https://nurselytic.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://nurselytic.com/#website","url":"https://nurselytic.com/","name":"Nurselytic","description":"","publisher":{"@id":"https://nurselytic.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nurselytic.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://nurselytic.com/#organization","name":"Nurselytic","url":"https://nurselytic.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://nurselytic.com/#/schema/logo/image/","url":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","contentUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","width":500,"height":500,"caption":"Nurselytic"},"image":{"@id":"https://nurselytic.com/#/schema/logo/image/"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://nurselytic.com/","url":"https://nurselytic.com/","name":"Nursing Test Bank for ATI TEAS 7, HESI A2, and NCLEX Exams","isPartOf":{"@id":"https://nurselytic.com/#website"},"about":{"@id":"https://nurselytic.com/#organization"},"primaryImageOfPage":{"@id":"https://nurselytic.com/#primaryimage"},"image":{"@id":"https://nurselytic.com/#primaryimage"},"thumbnailUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","datePublished":"2024-11-25T08:50:31+00:00","dateModified":"2025-01-14T06:03:32+00:00","description":"Explore Comprehensive Nursing Test Bank on all the Nursing Entry Exams, Nursing Specialty Exams and the NCLEX","breadcrumb":{"@id":"https://nurselytic.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://nurselytic.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://nurselytic.com/#primaryimage","url":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","contentUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","width":500,"height":500,"caption":"Nursing Test Bank Nurselytic ATI TEAS 7, HESI A2 Exam"},{"@type":"BreadcrumbList","@id":"https://nurselytic.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://nurselytic.com/#website","url":"https://nurselytic.com/","name":"Nurselytic","description":"","publisher":{"@id":"https://nurselytic.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nurselytic.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://nurselytic.com/#organization","name":"Nurselytic","url":"https://nurselytic.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://nurselytic.com/#/schema/logo/image/","url":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","contentUrl":"https://nurselytic.com/wp-content/uploads/2024/11/logo.png","width":500,"height":500,"caption":"Nurselytic"},"image":{"@id":"https://nurselytic.com/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -105,8 +106,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel='stylesheet' id='zip-ai-sidebar-css' href='https://nurselytic.com/wp-content/plugins/astra-sites/inc/lib/zip-ai/sidebar/build/sidebar-app.css?ver=2.0.0' media='all' />
 <link rel='stylesheet' id='yoast-seo-adminbar-css' href='https://nurselytic.com/wp-content/plugins/wordpress-seo/css/dist/adminbar-2420.css' media='all' />
 
- <link rel="stylesheet" href="https://nurselytic.com/wp-content/themes/astra/style.css">
-	<link rel='stylesheet' id='kadence-blocks-rowlayout-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.4.3' media='all' />
+<link rel='stylesheet' id='kadence-blocks-rowlayout-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.4.3' media='all' />
 <link rel='stylesheet' id='kadence-kb-splide-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/includes/assets/css/kadence-splide.min.css?ver=3.4.3' media='all' />
 <link rel='stylesheet' id='kadence-blocks-splide-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/includes/assets/css/kb-blocks-splide.min.css?ver=3.4.3' media='all' />
 <link rel='stylesheet' id='kadence-blocks-column-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?ver=3.4.3' media='all' />
@@ -117,9 +117,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel='stylesheet' id='kadence-blocks-infobox-css' href='https://nurselytic.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css?ver=3.4.3' media='all' />
 <style id='kadence-blocks-global-variables-inline-css'>
 :root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+
+</style>
+
 <style id='kadence_blocks_css-inline-css'>
 .kb-row-layout-wrap.wp-block-kadence-rowlayout.kb-row-layout-id61_d6d28b-29{margin-bottom:0px;}.kb-row-layout-id61_d6d28b-29 > .kt-row-column-wrap{align-content:center;}:where(.kb-row-layout-id61_d6d28b-29 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:center;}.kb-row-layout-id61_d6d28b-29 > .kt-row-column-wrap{column-gap:0px;row-gap:0px;max-width:1575px;margin-left:auto;margin-right:auto;padding-top:var(--global-kb-spacing-xs, 1rem);padding-right:0px;padding-bottom:var(--global-kb-spacing-3xl, 6.5rem);padding-left:var(--global-kb-spacing-sm, 1.5rem);min-height:670px;grid-template-columns:repeat(2, minmax(0, 1fr));}.kb-row-layout-id61_d6d28b-29 > .kt-row-layout-overlay{opacity:1;background:linear-gradient(90deg,var(--global-palette8,#F7FAFC) 42%,rgba(247,250,252,0) 59%);}@media all and (max-width: 1024px){.kb-row-layout-id61_d6d28b-29 > .kt-row-column-wrap{padding-top:var(--global-kb-spacing-3xl, 6.5rem);padding-bottom:var(--global-kb-spacing-3xl, 6.5rem);min-height:600px;}}@media all and (max-width: 1024px){.kb-row-layout-id61_d6d28b-29 > .kt-row-layout-overlay{opacity:0.90;background:linear-gradient(180deg,var(--global-palette8,#F7FAFC) 53%,rgba(247,250,252,0) 100%);}}@media all and (max-width: 767px){.kb-row-layout-id61_d6d28b-29 > .kt-row-column-wrap{padding-top:var(--global-kb-spacing-lg, 3rem);padding-bottom:var(--global-kb-spacing-lg, 3rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id61_d6d28b-29 > .kt-row-layout-overlay{opacity:0.90;background:linear-gradient(180deg,var(--global-palette8,#F7FAFC) 61%,rgba(247,250,252,0) 100%);}}.kadence-column61_8757e0-29 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_8757e0-29 > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_8757e0-29 > .kt-inside-inner-col > .aligncenter{width:100%;}@media all and (max-width: 1024px){.kadence-column61_8757e0-29{text-align:center;}}@media all and (max-width: 1024px){.kadence-column61_8757e0-29 > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_8757e0-29 > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a, .wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a[data-kb-block="kb-adv-heading61_78afe2-6a"]{max-width:2000px;margin-bottom:var(--global-kb-spacing-lg, 3rem);text-align:left;font-size:var(--global-kb-font-size-xl, 3rem);line-height:1.2;color:var(--global-palette3, #1A202C);}.wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a[data-kb-block="kb-adv-heading61_78afe2-6a"] mark.kt-highlight{-webkit-box-decoration-break:clone;box-decoration-break:clone;}@media all and (max-width: 1024px){.wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a, .wp-block-kadence-advancedheading.kt-adv-heading61_78afe2-6a[data-kb-block="kb-adv-heading61_78afe2-6a"]{text-align:center!important;}}.wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81, .wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81[data-kb-block="kb-adv-heading61_dfbff6-81"]{color:var(--global-palette4, #2D3748);}.wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81 mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81[data-kb-block="kb-adv-heading61_dfbff6-81"] mark.kt-highlight{-webkit-box-decoration-break:clone;box-decoration-break:clone;}@media all and (max-width: 1024px){.wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81, .wp-block-kadence-advancedheading.kt-adv-heading61_dfbff6-81[data-kb-block="kb-adv-heading61_dfbff6-81"]{text-align:center!important;}}.kadence-column61_367fcf-5c > .kt-inside-inner-col{display:flex;}.kadence-column61_367fcf-5c > .kt-inside-inner-col{row-gap:10px;column-gap:30px;}.kadence-column61_367fcf-5c > .kt-inside-inner-col{flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:flex-start;}.kadence-column61_367fcf-5c > .kt-inside-inner-col > *, .kadence-column61_367fcf-5c > .kt-inside-inner-col > figure.wp-block-image, .kadence-column61_367fcf-5c > .kt-inside-inner-col > figure.wp-block-kadence-image{margin-top:0px;margin-bottom:0px;}.kadence-column61_367fcf-5c > .kt-inside-inner-col > .kb-image-is-ratio-size{flex-grow:1;}.kadence-column61_367fcf-5c{text-align:left;}@media all and (max-width: 1024px){.kadence-column61_367fcf-5c > .kt-inside-inner-col{row-gap:24px;flex-direction:row;flex-wrap:wrap;justify-content:flex-start;}}@media all and (max-width: 1024px){.kadence-column61_367fcf-5c{text-align:center;}}@media all and (min-width: 768px) and (max-width: 1024px){.kadence-column61_367fcf-5c > .kt-inside-inner-col > *, .kadence-column61_367fcf-5c > .kt-inside-inner-col > figure.wp-block-image, .kadence-column61_367fcf-5c > .kt-inside-inner-col > figure.wp-block-kadence-image{margin-top:0px;margin-bottom:0px;}.kadence-column61_367fcf-5c > .kt-inside-inner-col > .kb-image-is-ratio-size{flex-grow:1;}}@media all and (max-width: 767px){.kadence-column61_367fcf-5c > .kt-inside-inner-col{row-gap:17px;flex-direction:column;align-items:stretch;flex-wrap:nowrap;}.kadence-column61_367fcf-5c{text-align:center;}.wp-block-kadence-column.kb-section-dir-horizontal.kadence-column61_367fcf-5c > .kt-inside-inner-col > .wp-block-kadence-infobox{align-self:unset;}}.wp-block-kadence-advancedbtn.kt-btns61_f07ff2-5c, .site .entry-content .wp-block-kadence-advancedbtn.kt-btns61_f07ff2-5c, .wp-block-kadence-advancedbtn.kb-btns61_f07ff2-5c, .site .entry-content .wp-block-kadence-advancedbtn.kb-btns61_f07ff2-5c{margin-bottom:0px;}.wp-block-kadence-advancedbtn.kb-btns61_f07ff2-5c{justify-content:flex-start;}@media all and (max-width: 767px){.wp-block-kadence-advancedbtn.kb-btns61_f07ff2-5c{justify-content:center;align-items:flex-start;}}ul.menu .wp-block-kadence-advancedbtn .kb-btn61_b4ca23-91.kb-button{width:initial;}.wp-block-kadence-advancedbtn .kb-btn61_b4ca23-91.kb-button{background:var(--ast-global-color-1);border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-right-radius:12px;border-bottom-left-radius:12px;box-shadow:1px 1px 2px 0px rgba(0, 0, 0, 0.2);}@media all and (max-width: 1024px){.kb-btn61_b4ca23-91.kb-button .kb-svg-icon-wrap{display:block;}}ul.menu .wp-block-kadence-advancedbtn .kb-btn61_ed5efc-bd.kb-button{width:initial;}.wp-block-kadence-advancedbtn .kb-btn61_ed5efc-bd.kb-button{background:var(--ast-global-color-1);border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-right-radius:12px;border-bottom-left-radius:12px;}@media all and (max-width: 1024px){.kb-btn61_ed5efc-bd.kb-button .kb-svg-icon-wrap{display:block;}}.kadence-column61_e1d4ff-2b > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_e1d4ff-2b > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_e1d4ff-2b > .kt-inside-inner-col > .aligncenter{width:100%;}@media all and (max-width: 1024px){.kadence-column61_e1d4ff-2b > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_e1d4ff-2b > .kt-inside-inner-col{flex-direction:column;}}.kb-row-layout-id61_b82c8b-70 > .kt-row-column-wrap{max-width:1200px;padding-top:var(--global-kb-spacing-xs, 1rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id61_b82c8b-70{background-color:var(--global-palette9, #ffffff);}.kb-row-layout-id61_b82c8b-70 .kt-row-layout-bottom-sep{height:63px;}.kb-row-layout-id61_b82c8b-70 .kt-row-layout-bottom-sep svg{fill:var(--ast-global-color-1)!important;}.kb-row-layout-id61_b82c8b-70 .kt-row-layout-top-sep{height:79px;}.kb-row-layout-id61_b82c8b-70 .kt-row-layout-top-sep svg{fill:var(--ast-global-color-1)!important;}@media all and (max-width: 767px){.kb-row-layout-id61_b82c8b-70 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column61_ba4bb3-9a > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_ba4bb3-9a > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_ba4bb3-9a > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column61_ba4bb3-9a{text-align:left;}@media all and (max-width: 1024px){.kadence-column61_ba4bb3-9a > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_ba4bb3-9a > .kt-inside-inner-col{flex-direction:column;}}.kb-row-layout-id61_14b291-55 > .kt-row-column-wrap{max-width:760px;margin-left:auto;margin-right:auto;padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-lg, 3rem);grid-template-columns:minmax(0, 1fr);}@media all and (max-width: 767px){.kb-row-layout-id61_14b291-55 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column61_ff9b69-8e > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_ff9b69-8e > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_ff9b69-8e > .kt-inside-inner-col > .aligncenter{width:100%;}@media all and (max-width: 1024px){.kadence-column61_ff9b69-8e > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_ff9b69-8e > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-advancedheading.kt-adv-heading61_35d24a-92, .wp-block-kadence-advancedheading.kt-adv-heading61_35d24a-92[data-kb-block="kb-adv-heading61_35d24a-92"]{margin-top:0px;margin-bottom:var(--global-kb-spacing-sm, 1.5rem);text-align:center;font-size:var(--global-kb-font-size-sm, 0.9rem);text-transform:uppercase;letter-spacing:2px;color:var(--global-palette1, #3182CE);}.wp-block-kadence-advancedheading.kt-adv-heading61_35d24a-92 mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading61_35d24a-92[data-kb-block="kb-adv-heading61_35d24a-92"] mark.kt-highlight{-webkit-box-decoration-break:clone;box-decoration-break:clone;}.wp-block-kadence-advancedheading.kt-adv-heading61_6f4ade-08, .wp-block-kadence-advancedheading.kt-adv-heading61_6f4ade-08[data-kb-block="kb-adv-heading61_6f4ade-08"]{margin-top:0px;margin-bottom:var(--global-kb-spacing-sm, 1.5rem);text-align:center;font-size:var(--global-kb-font-size-xl, 3rem);line-height:1.2em;color:var(--global-palette3, #1A202C);}.wp-block-kadence-advancedheading.kt-adv-heading61_6f4ade-08 mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading61_6f4ade-08[data-kb-block="kb-adv-heading61_6f4ade-08"] mark.kt-highlight{-webkit-box-decoration-break:clone;box-decoration-break:clone;}.wp-block-kadence-advancedheading.kt-adv-heading61_b316a1-91, .wp-block-kadence-advancedheading.kt-adv-heading61_b316a1-91[data-kb-block="kb-adv-heading61_b316a1-91"]{margin-top:0px;margin-bottom:var(--global-kb-spacing-sm, 1.5rem);text-align:center;color:var(--global-palette3, #1A202C);}.wp-block-kadence-advancedheading.kt-adv-heading61_b316a1-91 mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading61_b316a1-91[data-kb-block="kb-adv-heading61_b316a1-91"] mark.kt-highlight{-webkit-box-decoration-break:clone;box-decoration-break:clone;}.kb-row-layout-id61_72586e-58 > .kt-row-column-wrap{row-gap:var(--global-kb-gap-lg, 4rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-xl, 4rem);grid-template-columns:repeat(2, minmax(0, 1fr));}@media all and (max-width: 1024px){.kb-row-layout-id61_72586e-58 > .kt-row-column-wrap{row-gap:var(--global-kb-gap-lg, 4rem);}}@media all and (max-width: 767px){.kb-row-layout-id61_72586e-58 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column61_edd5f3-bb > .kt-inside-inner-col{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.kadence-column61_edd5f3-bb > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_edd5f3-bb > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_edd5f3-bb > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column61_edd5f3-bb > .kt-inside-inner-col{background-color:var(--global-palette9, #ffffff);}.kadence-column61_edd5f3-bb a{color:var(--global-palette3, #1A202C);}.kadence-column61_edd5f3-bb a:hover{color:var(--global-palette4, #2D3748);}@media all and (max-width: 1024px){.kadence-column61_edd5f3-bb > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_edd5f3-bb > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-column.kb-section-dir-horizontal > .kt-inside-inner-col > .kt-info-box61_1cdfa0-af .kt-blocks-info-box-link-wrap{max-width:unset;}.kt-info-box61_1cdfa0-af .kt-blocks-info-box-link-wrap{background:var(--global-palette1, #3182CE);padding-top:var(--global-kb-spacing-md, 2rem);padding-right:var(--global-kb-spacing-xs, 1rem);padding-bottom:var(--global-kb-spacing-md, 2rem);padding-left:var(--global-kb-spacing-xs, 1rem);}.kt-info-box61_1cdfa0-af .kadence-info-box-icon-container .kt-info-svg-icon, .kt-info-box61_1cdfa0-af .kt-info-svg-icon-flip, .kt-info-box61_1cdfa0-af .kt-blocks-info-box-number{font-size:50px;}.kt-info-box61_1cdfa0-af .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_1cdfa0-af .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_1cdfa0-af .kt-infobox-textcontent h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_1cdfa0-af .kt-blocks-info-box-link-wrap:hover h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_1cdfa0-af .kt-infobox-textcontent .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kt-info-box61_1cdfa0-af .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kadence-column61_6fd433-92 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_6fd433-92 > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_6fd433-92 > .kt-inside-inner-col > .aligncenter{width:100%;}@media all and (max-width: 1024px){.kadence-column61_6fd433-92 > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_6fd433-92 > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-column.kb-section-dir-horizontal > .kt-inside-inner-col > .kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap{max-width:unset;}.kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap{background:var(--global-palette2, #2B6CB0);padding-top:var(--global-kb-spacing-md, 2rem);padding-right:var(--global-kb-spacing-xs, 1rem);padding-bottom:var(--global-kb-spacing-md, 2rem);padding-left:var(--global-kb-spacing-xs, 1rem);}.kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap:hover{background:var(--global-palette2, #2B6CB0);}.kt-info-box61_728c26-c1 .kadence-info-box-icon-container .kt-info-svg-icon, .kt-info-box61_728c26-c1 .kt-info-svg-icon-flip, .kt-info-box61_728c26-c1 .kt-blocks-info-box-number{font-size:50px;}.kt-info-box61_728c26-c1 .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_728c26-c1 .kt-infobox-textcontent h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap:hover h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_728c26-c1 .kt-infobox-textcontent .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kt-info-box61_728c26-c1 .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kb-row-layout-id61_ef5de1-16 > .kt-row-column-wrap{row-gap:var(--global-kb-gap-lg, 4rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-xl, 4rem);grid-template-columns:repeat(2, minmax(0, 1fr));}@media all and (max-width: 1024px){.kb-row-layout-id61_ef5de1-16 > .kt-row-column-wrap{row-gap:var(--global-kb-gap-lg, 4rem);}}@media all and (max-width: 767px){.kb-row-layout-id61_ef5de1-16 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column61_1ea826-85 > .kt-inside-inner-col{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.kadence-column61_1ea826-85 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_1ea826-85 > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_1ea826-85 > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column61_1ea826-85 > .kt-inside-inner-col{background-color:var(--global-palette9, #ffffff);}.kadence-column61_1ea826-85 a{color:var(--global-palette3, #1A202C);}.kadence-column61_1ea826-85 a:hover{color:var(--global-palette4, #2D3748);}@media all and (max-width: 1024px){.kadence-column61_1ea826-85 > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_1ea826-85 > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-column.kb-section-dir-horizontal > .kt-inside-inner-col > .kt-info-box61_c37d2b-8d .kt-blocks-info-box-link-wrap{max-width:unset;}.kt-info-box61_c37d2b-8d .kt-blocks-info-box-link-wrap{background:var(--global-palette1, #3182CE);padding-top:var(--global-kb-spacing-md, 2rem);padding-right:var(--global-kb-spacing-xs, 1rem);padding-bottom:var(--global-kb-spacing-md, 2rem);padding-left:var(--global-kb-spacing-xs, 1rem);}.kt-info-box61_c37d2b-8d .kadence-info-box-icon-container .kt-info-svg-icon, .kt-info-box61_c37d2b-8d .kt-info-svg-icon-flip, .kt-info-box61_c37d2b-8d .kt-blocks-info-box-number{font-size:50px;}.kt-info-box61_c37d2b-8d .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_c37d2b-8d .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_c37d2b-8d .kt-infobox-textcontent h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_c37d2b-8d .kt-blocks-info-box-link-wrap:hover h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_c37d2b-8d .kt-infobox-textcontent .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kt-info-box61_c37d2b-8d .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kadence-column61_0d436d-27 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column61_0d436d-27 > .kt-inside-inner-col{flex-direction:column;}.kadence-column61_0d436d-27 > .kt-inside-inner-col > .aligncenter{width:100%;}@media all and (max-width: 1024px){.kadence-column61_0d436d-27 > .kt-inside-inner-col{flex-direction:column;}}@media all and (max-width: 767px){.kadence-column61_0d436d-27 > .kt-inside-inner-col{flex-direction:column;}}.wp-block-kadence-column.kb-section-dir-horizontal > .kt-inside-inner-col > .kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap{max-width:unset;}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap{background:#045cb4;padding-top:var(--global-kb-spacing-md, 2rem);padding-right:var(--global-kb-spacing-xs, 1rem);padding-bottom:var(--global-kb-spacing-md, 2rem);padding-left:var(--global-kb-spacing-xs, 1rem);}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap:hover{background:#045cb4;}.kt-info-box61_29ddc9-9f .kadence-info-box-icon-container .kt-info-svg-icon, .kt-info-box61_29ddc9-9f .kt-info-svg-icon-flip, .kt-info-box61_29ddc9-9f .kt-blocks-info-box-number{font-size:50px;}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-media{color:var(--global-palette9, #ffffff);}.kt-info-box61_29ddc9-9f .kt-infobox-textcontent h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap:hover h2.kt-blocks-info-box-title{color:var(--global-palette9, #ffffff);}.kt-info-box61_29ddc9-9f .kt-infobox-textcontent .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}.kt-info-box61_29ddc9-9f .kt-blocks-info-box-link-wrap:hover .kt-blocks-info-box-text{color:var(--global-palette9, #ffffff);}
 </style>
+<!--[if IE]>
 <script src="https://nurselytic.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.8.6" id="astra-flexibility-js"></script>
 <script id="astra-flexibility-js-after">
 flexibility(document.documentElement);
@@ -150,6 +154,7 @@ flexibility(document.documentElement);
         text-align: center !important;
     }
 }
+
 @media only screen and (max-width: 768px) {
 	 #h-why-choose-nurselytic {
         font-size: 20px !important; /* Adjust this value as needed */
@@ -183,7 +188,7 @@ flexibility(document.documentElement);
         font-size: 18px !important; /* Adjust this value as needed */
 			margin-bottom:-20px;
     }
-#h-engage-with-a-supportive-community{
+	#h-engage-with-a-supportive-community{
         font-size: 18px !important; /* Adjust this value as needed */
 		
 			margin-bottom:-20px;
@@ -212,7 +217,7 @@ flexibility(document.documentElement);
 	 .wp-block-column.is-vertically-aligned-center {
         margin-top: -30px !important; /* Adjust this value as needed */
     }
-      #h-how-nurselytic-helps-you-succeed {
+	  #h-how-nurselytic-helps-you-succeed {
         font-size: 16px !important; /* Adjust font size for mobile */
         letter-spacing: 2px !important; /* Adjust letter spacing if needed */
         text-transform: uppercase; /* Maintain uppercase style */
@@ -399,511 +404,670 @@ flexibility(document.documentElement);
   padding-right: 0;
 }
 }		</style>
-		<style id="kirki-inline-styles"></style>
-</head>
-<body>
+		<style id="kirki-inline-styles"></style></head>
 
-<h1>Home</h1>
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-61 logged-in admin-bar no-customize-support wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-4.8.6 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-normal-title-enabled">
+<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
 
-<!-- wp:kadence/rowlayout {"uniqueID":"61_d6d28b-29","collapseGutter":"custom","customRowGutter":[0,"",""],"columnGutter":"custom","customGutter":[0,"",""],"colLayout":"equal","currentOverlayTab":"gradient","minHeight":670,"maxWidth":1575,"bgImg":"https://nurselytic.com/wp-content/uploads/2024/11/nurselytic82.jpg","bgImgSize":"auto","bgImgPosition":"left top","overlay":"#ffffff","overlaySecond":"#000000","overlayFirstOpacity":1,"overlaySecondOpacity":0,"overlayGradLoc":19,"overlayGradAngle":90,"overlayOpacity":100,"align":"full","verticalAlignment":"middle","tabletPadding":["3xl","","3xl",""],"tabletBackground":[{"enable":false,"bgColor":"","bgImg":"","bgImgID":"","bgImgSize":"cover","bgImgPosition":"center center","bgImgAttachment":"scroll","bgImgRepeat":"no-repeat","forceOverDesk":false,"type":"gradient","gradient":"linear-gradient(0deg,rgb(6,147,227) 0%,rgb(20,39,109) 100%)"}],"tabletOverlay":[{"enable":true,"currentOverlayTab":"gradient","overlay":"","overlaySecond":"#00B5E2","overlayGradLoc":0,"overlayGradLocSecond":100,"overlayGradType":"linear","overlayGradAngle":180,"overlayBgImg":"","overlayBgImgID":"","overlayBgImgSize":"cover","overlayBgImgPosition":"center center","overlayBgImgAttachment":"scroll","overlayBgImgRepeat":"no-repeat","overlayOpacity":90,"overlayBlendMod":"none","gradient":"linear-gradient(180deg,var(\u002d\u002dglobal-palette8,#F7FAFC) 53%,rgba(247,250,252,0) 100%)"}],"mobileOverlay":[{"enable":true,"currentOverlayTab":"gradient","overlay":"palette9","overlaySecond":"rgba(255,255,255,0.06)","overlayGradLoc":50,"overlayGradLocSecond":100,"overlayGradType":"linear","overlayGradAngle":110,"overlayBgImg":"","overlayBgImgID":"","overlayBgImgSize":"cover","overlayBgImgPosition":"center center","overlayBgImgAttachment":"scroll","overlayBgImgRepeat":"no-repeat","overlayOpacity":90,"overlayBlendMod":"none","gradient":"linear-gradient(180deg,var(\u002d\u002dglobal-palette8,#F7FAFC) 61%,rgba(247,250,252,0) 100%)"}],"backgroundSettingTab":"slider","backgroundSlider":[{"bgColor":"var(\u002d\u002dast-global-color-4)","bgImg":"https://nurselytic.com/wp-content/uploads/2024/12/freepik__remove-background-and-upscale-to-4k__72548.png","bgImgID":688},{"bgColor":"","bgImg":"https://nurselytic.com/wp-content/uploads/2024/12/freepik__remove-background-and-upscale-to-4k__72548.png","bgImgID":688}],"backgroundSliderSettings":[{"arrowStyle":"none","dotStyle":"none","autoPlay":true,"speed":7000,"fade":true,"tranSpeed":400}],"minHeightTablet":600,"gradient":"linear-gradient(135deg,rgb(6,147,227) 40%,rgb(20,39,109) 100%)","overlayGradient":"linear-gradient(90deg,var(\u002d\u002dglobal-palette8,#F7FAFC) 42%,rgba(247,250,252,0) 59%)","padding":["xs","0","3xl","sm"],"mobilePadding":["lg","","lg",""],"margin":["","","0",""],"breakoutRight":true,"kbVersion":2} -->
-<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"61_8757e0-29","textAlign":["","center",""],"direction":["vertical","",""],"verticalAlignment":"","kbVersion":2,"className":"inner-column-1"} -->
-<div class="wp-block-kadence-column kadence-column61_8757e0-29 kb-section-dir-vertical inner-column-1"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"level":1,"uniqueID":"61_78afe2-6a","align":"left","color":"palette3","fontWeight":"inherit","margin":["","","lg",""],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette3","tabletAlign":"center","fontSize":["xl","",""],"fontHeight":[1.2,"",""],"maxWidth":[2000,"",""]} -->
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://nurselytic.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='About WordPress' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/about.php'>About WordPress</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/contribute.php'>Get Involved</a></li></ul><ul role='menu' aria-label='About WordPress' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://wordpress.org/'>WordPress.org</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>Documentation</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Learn WordPress</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forums/'>Support</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://nurselytic.com/wp-admin/'>Nurselytic</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Nurselytic' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-dashboard'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/'>Dashboard</a></li><li role='group' id='wp-admin-bar-plugins'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/plugins.php'>Plugins</a></li></ul><ul role='menu' aria-label='Nurselytic' id='wp-admin-bar-appearance' class="ab-submenu"><li role='group' id='wp-admin-bar-themes'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/themes.php'>Themes</a></li><li role='group' id='wp-admin-bar-widgets'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/widgets.php'>Widgets</a></li><li role='group' id='wp-admin-bar-menus'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li role='group' id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/customize.php?url=https%3A%2F%2Fnurselytic.com%2F'>Customize</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">10</span><span class="screen-reader-text updates-available-text">10 updates available</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-48" aria-hidden="true">48</span><span class="screen-reader-text comments-in-moderation-text">48 Comments in moderation</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://nurselytic.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='New' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/post-new.php'>Post</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/media-new.php'>Media</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li role='group' id='wp-admin-bar-new-spectra-popup'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/post-new.php?post_type=spectra-popup'>Spectra Popup</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/user-new.php'>User</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/post.php?post=61&#038;action=edit'>Edit Page</a></li><li role='group' id='wp-admin-bar-wpseo-menu' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://nurselytic.com/wp-admin/admin.php?page=wpseo_dashboard'><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div aria-hidden="true" title="Good" class="wpseo-score-icon good adminbar-seo-score"><span class="wpseo-score-text screen-reader-text">Good</span></div></a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-seo-focus-keyword'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">Focus keyphrase: <span class="wpseo-focus-keyword">Nursing Test Bank</span></div></li><li role='group' id='wp-admin-bar-wpseo-seo-score'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">SEO score: <div aria-hidden="true" title="Good" class="wpseo-score-icon good adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Good</span></div></div></li><li role='group' id='wp-admin-bar-wpseo-readability-score'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem">Readability: <div aria-hidden="true" title="Good" class="wpseo-score-icon good adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Good</span></div></div></li><li role='group' id='wp-admin-bar-wpseo-frontend-inspector'><a class='ab-item' tabindex="0" role="menuitem" href='https://yoa.st/admin-bar-frontend-inspector?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Front-end SEO inspector<span class="yoast-badge yoast-premium-badge" id="wpseo-frontend-inspector-badge-premium-badge">Premium</span></a></li><li role='group' id='wp-admin-bar-wpseo-analysis' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-analysis-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-inlinks'><a class='ab-item' role="menuitem" href='https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fnurselytic.com&#038;type=EXTERNAL&#038;target=https%3A%2F%2Fnurselytic.com%2F&#038;domain=' target='_blank'>Check links to this URL</a></li><li role='group' id='wp-admin-bar-wpseo-structureddata'><a class='ab-item' role="menuitem" href='https://search.google.com/test/rich-results?url=https%3A%2F%2Fnurselytic.com%2F' target='_blank'>Google Rich Results Test</a></li><li role='group' id='wp-admin-bar-wpseo-facebookdebug'><a class='ab-item' role="menuitem" href='//developers.facebook.com/tools/debug/?q=https%3A%2F%2Fnurselytic.com%2F' target='_blank'>Facebook Debugger</a></li><li role='group' id='wp-admin-bar-wpseo-pagespeed'><a class='ab-item' role="menuitem" href='//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fnurselytic.com%2F' target='_blank'>Google Page Speed Test</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-tools' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Tools</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-sub-tools-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-semrush'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-semrush?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Semrush</a></li><li role='group' id='wp-admin-bar-wpseo-wincher'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-wincher?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Wincher</a></li><li role='group' id='wp-admin-bar-wpseo-google-trends'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-gtrends?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Google trends</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-howto' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>How to</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-sub-howto-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-learn-seo'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-learn-more-seo?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Learn more SEO</a></li><li role='group' id='wp-admin-bar-wpseo-improve-blogpost'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-improve-blog-post?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Improve your blog post</a></li><li role='group' id='wp-admin-bar-wpseo-write-better-content'><a class='ab-item' role="menuitem" href='https://yoa.st/admin-bar-write-better?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US' target='_blank'>Write better content</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-sub-get-help'><a class='ab-item' tabindex="0" role="menuitem" href='https://nurselytic.com/wp-admin/admin.php?page=wpseo_page_support'>Help</a></li><li role='group' id='wp-admin-bar-wpseo-settings' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Settings</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpseo-settings-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpseo-page-settings'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/admin.php?page=wpseo_page_settings'>Settings</a></li><li role='group' id='wp-admin-bar-wpseo-tools'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/admin.php?page=wpseo_tools'>Tools</a></li><li role='group' id='wp-admin-bar-wpseo-licenses'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/admin.php?page=wpseo_licenses'>Upgrades</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpseo-get-premium'><div class="ab-item ab-empty-item" tabindex="0" role="menuitem"><a href="https://yoa.st/admin-bar-get-premium?php_version=8.3&#038;platform=wordpress&#038;platform_version=6.7.1&#038;software=free&#038;software_version=24.2&#038;days_active=76&#038;user_language=en_US" target="_blank" data-action="load-nfd-ctb" data-ctb-id="f6a84663-465f-4cb5-8ba5-f7a6d72224b2" style="padding:0;">Get Yoast SEO Premium &raquo; </a></div></li></ul></div></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-zip-ai-assistant'><a class='ab-item' role="menuitem" href=''><span class="ab-icon" aria-hidden="true" style="margin: 0">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false"><path d="M9.8132 15.9038L9 18.75L8.1868 15.9038C7.75968 14.4089 6.59112 13.2403 5.09619 12.8132L2.25 12L5.09619 11.1868C6.59113 10.7597 7.75968 9.59112 8.1868 8.09619L9 5.25L9.8132 8.09619C10.2403 9.59113 11.4089 10.7597 12.9038 11.1868L15.75 12L12.9038 12.8132C11.4089 13.2403 10.2403 14.4089 9.8132 15.9038Z" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"></path><path d="M16.8942 20.5673L16.5 21.75L16.1058 20.5673C15.8818 19.8954 15.3546 19.3682 14.6827 19.1442L13.5 18.75L14.6827 18.3558C15.3546 18.1318 15.8818 17.6046 16.1058 16.9327L16.5 15.75L16.8942 16.9327C17.1182 17.6046 17.6454 18.1318 18.3173 18.3558L19.5 18.75L18.3173 19.1442C17.6454 19.3682 17.1182 19.8954 16.8942 20.5673Z" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"></path><path d="M18.2589 8.71454L18 9.75L17.7411 8.71454C17.4388 7.50533 16.4947 6.56117 15.2855 6.25887L14.25 6L15.2855 5.74113C16.4947 5.43883 17.4388 4.49467 17.7411 3.28546L18 2.25L18.2589 3.28546C18.5612 4.49467 19.5053 5.43883 20.7145 5.74113L21.75 6L20.7145 6.25887C19.5053 6.56117 18.5612 7.50532 18.2589 8.71454Z" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+</span></a></li><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://nurselytic.com/wp-admin/profile.php'>Howdy, <span class="display-name">Admin</span><img alt='' src='https://secure.gravatar.com/avatar/fbe0f9ca223f6519121f6175379a1537?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/fbe0f9ca223f6519121f6175379a1537?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Howdy, Admin' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/fbe0f9ca223f6519121f6175379a1537?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/fbe0f9ca223f6519121f6175379a1537?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>Admin</span><span class='display-name edit-profile'>Edit Profile</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='https://nurselytic.com/wp-login.php?action=logout&#038;_wpnonce=380f0b70bc'>Log Out</a></li></ul></div></li><li role='group' id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://nurselytic.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li></ul>			</div>
+		</div>
+
+		
+<a
+	class="skip-link screen-reader-text"
+	href="#content"
+	title="Skip to content">
+		Skip to content</a>
+
+<div
+class="hfeed site" id="page">
+			<header
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-above-header-wrap  ">
+		<div class="ast-above-header-bar ast-above-header  site-header-focus-item" data-section="section-above-header-builder">
+						<div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+											<div class="site-header-above-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+							<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://nurselytic.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="47" height="47" src="https://nurselytic.com/wp-content/uploads/2024/11/logo-47x47.png" class="custom-logo" alt="Nursing Test Bank Nurselytic ATI TEAS 7, HESI A2 Exam" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/logo-47x47.png 47w, https://nurselytic.com/wp-content/uploads/2024/11/logo-300x300.png 300w, https://nurselytic.com/wp-content/uploads/2024/11/logo-150x150.png 150w, https://nurselytic.com/wp-content/uploads/2024/11/logo.png 500w" sizes="(max-width: 47px) 100vw, 47px" /></a></span><div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://nurselytic.com/" rel="home" itemprop="url" >
+					Nurselytic
+				</a>
+			</span>
+						<p class="site-description" itemprop="description">
+				
+			</p>
+				</div>				</div>
+			<!-- .site-branding -->
+					</div>
+								</div>
+																									<div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-406"><a href="https://nurselytic.com/" aria-current="page" class="menu-link">Home</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://nurselytic.com/ati-teas-7-practice-test/" class="menu-link">ATI TEAS 7</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://nurselytic.com/hesi-a2-exam/" class="menu-link">HESI A2</a></li>
+<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://nurselytic.com/ati-content-mastery-series/" class="menu-link">ATI Exams</a></li>
+<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="https://nurselytic.com/hesi-specialty-exams/" class="menu-link">HESI Exams</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://nurselytic.com/nclex-pn-practice-questions/" class="menu-link">NCLEX PN</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://nurselytic.com/nclex-rn-practice-questions/" class="menu-link">NCLEX-RN</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="https://nurselytic.com/blog/" class="menu-link">Blog</a></li>
+</ul></div></nav></div></div>		</div>
+				<div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
+			<div class="ast-builder-button-wrap ast-builder-button-size-"><a class="ast-custom-button-link" href="https://nurselytic.com/accounts/login.php" target="_self" ><div class=ast-custom-button>Login</div></a><a class="menu-link" href="https://nurselytic.com/accounts/login.php" target="_self" >Login</a></div>		</div>
+									</div>
+												</div>
+					</div>
+								</div>
+			</div>
+	</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-transparent-header">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+							<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://nurselytic.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="47" height="47" src="https://nurselytic.com/wp-content/uploads/2024/11/logo-47x47.png" class="custom-logo" alt="Nursing Test Bank Nurselytic ATI TEAS 7, HESI A2 Exam" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/logo-47x47.png 47w, https://nurselytic.com/wp-content/uploads/2024/11/logo-300x300.png 300w, https://nurselytic.com/wp-content/uploads/2024/11/logo-150x150.png 150w, https://nurselytic.com/wp-content/uploads/2024/11/logo.png 500w" sizes="(max-width: 47px) 100vw, 47px" /></a></span><div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://nurselytic.com/" rel="home" itemprop="url" >
+					Nurselytic
+				</a>
+			</span>
+						<p class="site-description" itemprop="description">
+				
+			</p>
+				</div>				</div>
+			<!-- .site-branding -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal"   aria-expanded="false">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span aria-hidden="true" class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-menu-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z'></path></svg></span><span aria-hidden="true" class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></path></svg></span>					</span>
+									</button>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+				<div class="ast-mobile-header-content content-align-flex-start ">
+						<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="ast-mobile-site-navigation" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-406"><a href="https://nurselytic.com/" aria-current="page" class="menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://nurselytic.com/ati-teas-7-practice-test/" class="menu-link">ATI TEAS 7</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://nurselytic.com/hesi-a2-exam/" class="menu-link">HESI A2</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="https://nurselytic.com/ati-content-mastery-series/" class="menu-link">ATI Exams</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="https://nurselytic.com/hesi-specialty-exams/" class="menu-link">HESI Exams</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://nurselytic.com/nclex-pn-practice-questions/" class="menu-link">NCLEX PN</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://nurselytic.com/nclex-rn-practice-questions/" class="menu-link">NCLEX-RN</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="https://nurselytic.com/blog/" class="menu-link">Blog</a></li>
+</ul></div></nav></div></div>		</div>
+				<div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
+			<div class="ast-builder-button-wrap ast-builder-button-size-"><a class="ast-custom-button-link" href="https://nurselytic.com/accounts/login.php" target="_self" ><div class=ast-custom-button>Login</div></a><a class="menu-link" href="https://nurselytic.com/accounts/login.php" target="_self" >Login</a></div>		</div>
+					</div>
+			</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				<article
+class="post-61 page type-page status-publish has-post-thumbnail ast-article-single" id="post-61" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+	
+	
+<div class="entry-content clear"
+	data-ast-blocks-layout="true" itemprop="text">
+
+	
+	<div class="kb-row-layout-wrap kb-row-layout-id61_d6d28b-29 alignfull kt-row-has-bg wp-block-kadence-rowlayout"><div class="kt-blocks-carousel kb-blocks-bg-slider kt-carousel-container-dotstyle-none"><div class="kt-blocks-carousel-init kb-blocks-bg-slider-init kt-carousel-arrowstyle-none kt-carousel-dotstyle-none" data-slider-anim-speed="400" data-slider-type="slider" data-slider-scroll="1" data-slider-arrows="false" data-slider-fade="true" data-slider-dots="false" data-slider-hover-pause="false" data-slider-auto="true" data-slider-speed="7000"><div class="kb-bg-slide-contain"><div class="kb-bg-slide kb-bg-slide-0" style="background-color:var(--ast-global-color-4); background-image:url(https://nurselytic.com/wp-content/uploads/2024/12/freepik__remove-background-and-upscale-to-4k__72548.png); background-size:auto; background-position:left top; background-repeat:no-repeat;"></div></div></div></div><div class="kt-row-layout-overlay kt-row-overlay-gradient"></div><div class="kt-row-column-wrap kt-has-2-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-middle">
+
+<div class="wp-block-kadence-column kadence-column61_8757e0-29 kb-section-dir-vertical inner-column-1"><div class="kt-inside-inner-col">
 <h1 class="kt-adv-heading61_78afe2-6a wp-block-kadence-advancedheading has-theme-palette-3-color has-text-color" data-kb-block="kb-adv-heading61_78afe2-6a">Nursing Test Bank: Guaranteed 90%+ Success on ATI TEAS 7, HESI A2, ATI, HESI, and NCLEX Exams!</h1>
-<!-- /wp:kadence/advancedheading -->
 
-<!-- wp:kadence/advancedheading {"uniqueID":"61_dfbff6-81","color":"palette4","markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette4","tabletAlign":"center","htmlTag":"p"} -->
+
+
 <p class="kt-adv-heading61_dfbff6-81 wp-block-kadence-advancedheading has-theme-palette-4-color has-text-color" data-kb-block="kb-adv-heading61_dfbff6-81"><em><strong><em>We provide curated practice questions, comprehensive nursing test bank, detailed rationales, and expert strategies to help you cruise through nursing</em></strong></em></p>
-<!-- /wp:kadence/advancedheading -->
 
-<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"61_367fcf-5c","textAlign":["left","center","center"],"direction":["horizontal","horizontal","vertical"],"justifyContent":["flex-start","",""],"gutter":[30,"",""],"gutterVariable":["custom","",""],"rowGap":[10,24,17],"rowGapVariable":["custom","custom","custom"],"verticalAlignment":"","kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_367fcf-5c kb-section-dir-horizontal kb-section-md-dir-horizontal kb-section-sm-dir-vertical"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedbtn {"hAlign":"left","mhAlign":"center","uniqueID":"61_f07ff2-5c","btns":[],"margin":[{"desk":["","","0",""],"tablet":["","","",""],"mobile":["","","",""]}],"mvAlign":"top"} -->
-<div class="wp-block-kadence-advancedbtn kb-buttons-wrap kb-btns61_f07ff2-5c"><!-- wp:kadence/singlebtn {"uniqueID":"61_b4ca23-91","text":"Join Nurselytic","link":"https://nurselytic.com/accounts/signup.php","background":"var(\u002d\u002dast-global-color-1)","borderRadius":[12,12,12,12],"iconSide":"left","inheritStyles":"inherit","typography":[{"size":["","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"","letterSpacing":["","",""],"letterType":"px","family":"","google":false,"style":"normal","weight":"regular","variant":"","subset":"","textTransform":"","loadGoogle":true}],"displayShadow":true,"noCustomDefaults":true} /-->
 
-<!-- wp:kadence/singlebtn {"uniqueID":"61_ed5efc-bd","text":"Try For Free","link":"https://nurselytic.com/library","background":"var(\u002d\u002dast-global-color-1)","borderRadius":[12,12,12,12],"iconSide":"left","inheritStyles":"inherit","typography":[{"size":["","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"","letterSpacing":["","",""],"letterType":"px","family":"","google":false,"style":"normal","weight":"regular","variant":"","subset":"","textTransform":"","loadGoogle":true}],"noCustomDefaults":true} /--></div>
-<!-- /wp:kadence/advancedbtn --></div></div>
-<!-- /wp:kadence/column --></div></div>
-<!-- /wp:kadence/column -->
 
-<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"61_e1d4ff-2b","vstablet":true,"vsmobile":true,"kbVersion":2,"className":"inner-column-2"} -->
+<div class="wp-block-kadence-column kadence-column61_367fcf-5c kb-section-dir-horizontal kb-section-md-dir-horizontal kb-section-sm-dir-vertical"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-advancedbtn kb-buttons-wrap kb-btns61_f07ff2-5c"><a class="kb-button kt-button button kb-btn61_b4ca23-91 kt-btn-size-standard kt-btn-width-type-auto kb-btn-global-inherit kt-btn-has-text-true kt-btn-has-svg-false wp-block-button__link wp-block-kadence-singlebtn" href="https://nurselytic.com/accounts/signup.php"><span class="kt-btn-inner-text">Join Nurselytic</span></a>
+
+<a class="kb-button kt-button button kb-btn61_ed5efc-bd kt-btn-size-standard kt-btn-width-type-auto kb-btn-global-inherit kt-btn-has-text-true kt-btn-has-svg-false wp-block-button__link wp-block-kadence-singlebtn" href="https://nurselytic.com/library"><span class="kt-btn-inner-text">Try For Free</span></a></div>
+</div></div>
+</div></div>
+
+
+
 <div class="wp-block-kadence-column kadence-column61_e1d4ff-2b kvs-md-false kvs-sm-false inner-column-2"><div class="kt-inside-inner-col"></div></div>
-<!-- /wp:kadence/column -->
-<!-- /wp:kadence/rowlayout -->
 
-<!-- wp:uagb/container {"block_id":"8308453a","innerContentCustomWidthDesktop":1140,"innerContentCustomWidthMobile":426,"directionDesktop":"row","borderStyle":"","topPaddingDesktop":10,"bottomPaddingDesktop":60,"leftPaddingDesktop":20,"rightPaddingDesktop":20,"topPaddingTablet":10,"bottomPaddingTablet":50,"leftPaddingTablet":10,"rightPaddingTablet":10,"topPaddingMobile":0,"bottomPaddingMobile":60,"leftPaddingMobile":20,"rightPaddingMobile":20,"paddingLink":false,"topMarginDesktop":-120,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginMobile":-80,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapDesktop":10,"columnGapDesktop":0,"isBlockRootParent":true} -->
-<div class="wp-block-uagb-container uagb-block-8308453a alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:uagb/container {"block_id":"9babc42b","backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","borderStyle":"","boxShadowColor":"rgba(0,0,0,0.1)","boxShadowBlur":30,"boxShadowSpread":0,"topPaddingDesktop":30,"bottomPaddingDesktop":30,"leftPaddingDesktop":30,"rightPaddingDesktop":30,"topPaddingTablet":30,"bottomPaddingTablet":30,"leftPaddingTablet":10,"rightPaddingTablet":10,"paddingLink":false,"topMarginDesktop":20,"bottomMarginDesktop":20,"leftMarginDesktop":20,"rightMarginDesktop":20,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":10,"bottomMarginMobile":25,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapDesktop":0,"columnGapDesktop":0,"containerBorderTopLeftRadius":5,"containerBorderTopRightRadius":5,"containerBorderBottomLeftRadius":5,"containerBorderBottomRightRadius":5} -->
-<div class="wp-block-uagb-container uagb-block-9babc42b"><!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Comprehensive resources to help you prepare for nursing exams with confidence.","headingColor":"","subHeadingColor":"","icon":"slideshare","iconSize":42,"iconColor":"var(\u002d\u002dast-global-color-0)","headSpace":8,"subHeadSpace":0,"block_id":"c223a877","ctaLinkColor":"#333","ctaBtnLinkColor":"#333","ctaBgColor":"transparent","ctaBgHoverColor":"transparent","ctaBorderColor":"","ctaBorderStyle":"","iconLeftMargin":0,"iconRightMargin":0,"iconTopMargin":0,"iconBottomMargin":7,"iconMarginBottomTablet":20,"iconMarginTopMobile":0,"iconMarginRightMobile":0,"iconMarginBottomMobile":10,"iconMarginLeftMobile":0,"paddingBtnTop":10,"paddingBtnBottom":10,"paddingBtnLeft":14,"paddingBtnRight":14,"headTopMargin":0,"headRightMargin":0,"headLeftMargin":0,"headMarginTopTablet":0,"headMarginRightTablet":0,"headTabletSpace":10,"headMarginLeftTablet":0,"headMarginTopMobile":0,"headMarginRightMobile":0,"headMobileSpace":10,"headMarginLeftMobile":0,"blockTopPadding":0,"blockRightPadding":0,"blockLeftPadding":0,"blockBottomPadding":15,"blockTopPaddingTablet":0,"blockRightPaddingTablet":0,"blockLeftPaddingTablet":0,"blockBottomPaddingTablet":0,"blockPaddingLink":false,"subHeadTopMargin":0,"subHeadRightMargin":0,"subHeadLeftMargin":0,"subHeadMarginTopTablet":0,"subHeadMarginRightTablet":0,"subHeadTabletSpace":0,"subHeadMarginLeftTablet":0,"subHeadMarginTopMobile":0,"subHeadMarginRightMobile":0,"subHeadMobileSpace":0,"subHeadMarginLeftMobile":0,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"solid","btnBorderColor":"#333"} -->
+</div></div>
+
+
+<div class="wp-block-uagb-container uagb-block-8308453a alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+<div class="wp-block-uagb-container uagb-block-9babc42b">
 <div class="wp-block-uagb-info-box uagb-block-c223a877 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M187.7 153.7c-34 0-61.7 25.7-61.7 57.7 0 31.7 27.7 57.7 61.7 57.7s61.7-26 61.7-57.7c0-32-27.7-57.7-61.7-57.7zm143.4 0c-34 0-61.7 25.7-61.7 57.7 0 31.7 27.7 57.7 61.7 57.7 34.3 0 61.7-26 61.7-57.7 .1-32-27.4-57.7-61.7-57.7zm156.6 90l-6 4.3V49.7c0-27.4-20.6-49.7-46-49.7H76.6c-25.4 0-46 22.3-46 49.7V248c-2-1.4-4.3-2.9-6.3-4.3-15.1-10.6-25.1 4-16 17.7 18.3 22.6 53.1 50.3 106.3 72C58.3 525.1 252 555.7 248.9 457.5c0-.7 .3-56.6 .3-96.6 5.1 1.1 9.4 2.3 13.7 3.1 0 39.7 .3 92.8 .3 93.5-3.1 98.3 190.6 67.7 134.3-124 53.1-21.7 88-49.4 106.3-72 9.1-13.8-.9-28.3-16.1-17.8zm-30.5 19.2c-68.9 37.4-128.3 31.1-160.6 29.7-23.7-.9-32.6 9.1-33.7 24.9-10.3-7.7-18.6-15.5-20.3-17.1-5.1-5.4-13.7-8-27.1-7.7-31.7 1.1-89.7 7.4-157.4-28V72.3c0-34.9 8.9-45.7 40.6-45.7h317.7c30.3 0 40.9 12.9 40.9 45.7v190.6z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Effective Preparation</h3></div><p class="uagb-ifb-desc">Comprehensive resources to help you prepare for nursing exams with confidence.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
+</div>
 
-<!-- wp:uagb/container {"block_id":"680df5b2","backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","borderStyle":"","boxShadowColor":"rgba(0,0,0,0.1)","boxShadowBlur":30,"boxShadowSpread":0,"topPaddingDesktop":30,"bottomPaddingDesktop":30,"leftPaddingDesktop":30,"rightPaddingDesktop":30,"topPaddingTablet":30,"bottomPaddingTablet":30,"leftPaddingTablet":10,"rightPaddingTablet":10,"paddingLink":false,"topMarginDesktop":20,"bottomMarginDesktop":20,"leftMarginDesktop":20,"rightMarginDesktop":20,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":10,"rightMarginTablet":10,"bottomMarginMobile":25,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"containerBorderTopLeftRadius":5,"containerBorderTopRightRadius":5,"containerBorderBottomLeftRadius":5,"containerBorderBottomRightRadius":5} -->
-<div class="wp-block-uagb-container uagb-block-680df5b2"><!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Monitor your improvements and stay motivated with performance tracking tools.","headingColor":"","subHeadingColor":"","icon":"puzzle-piece","iconSize":42,"iconColor":"var(\u002d\u002dast-global-color-0)","headSpace":8,"subHeadSpace":0,"block_id":"75a8b955","ctaLinkColor":"#333","ctaBtnLinkColor":"#333","ctaBgColor":"transparent","ctaBgHoverColor":"transparent","ctaBorderColor":"","ctaBorderStyle":"","iconLeftMargin":0,"iconRightMargin":0,"iconTopMargin":0,"iconBottomMargin":7,"iconMarginBottomTablet":20,"iconMarginTopMobile":0,"iconMarginRightMobile":0,"iconMarginBottomMobile":10,"iconMarginLeftMobile":0,"paddingBtnTop":10,"paddingBtnBottom":10,"paddingBtnLeft":14,"paddingBtnRight":14,"headTopMargin":0,"headRightMargin":0,"headLeftMargin":0,"headMarginTopTablet":0,"headMarginRightTablet":0,"headTabletSpace":10,"headMarginLeftTablet":0,"headMarginTopMobile":0,"headMarginRightMobile":0,"headMobileSpace":10,"headMarginLeftMobile":0,"blockTopPadding":0,"blockRightPadding":0,"blockLeftPadding":0,"blockBottomPadding":15,"blockTopPaddingTablet":0,"blockRightPaddingTablet":0,"blockLeftPaddingTablet":0,"blockBottomPaddingTablet":0,"blockTopPaddingMobile":0,"blockRightPaddingMobile":0,"blockLeftPaddingMobile":0,"blockBottomPaddingMobile":0,"blockPaddingLink":false,"subHeadTopMargin":0,"subHeadRightMargin":0,"subHeadLeftMargin":0,"subHeadMarginTopTablet":0,"subHeadMarginRightTablet":0,"subHeadTabletSpace":0,"subHeadMarginLeftTablet":0,"subHeadMarginTopMobile":0,"subHeadMarginRightMobile":0,"subHeadMobileSpace":0,"subHeadMarginLeftMobile":0,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"solid","btnBorderColor":"#333"} -->
+
+
+<div class="wp-block-uagb-container uagb-block-680df5b2">
 <div class="wp-block-uagb-info-box uagb-block-75a8b955 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 288c0 35.35-21.49 64-48 64c-32.43 0-31.72-32-55.64-32C394.9 320 384 330.9 384 344.4V480c0 17.67-14.33 32-32 32h-71.64C266.9 512 256 501.1 256 487.6C256 463.1 288 464.4 288 432c0-26.51-28.65-48-64-48s-64 21.49-64 48c0 32.43 32 31.72 32 55.64C192 501.1 181.1 512 167.6 512H32c-17.67 0-32-14.33-32-32v-135.6C0 330.9 10.91 320 24.36 320C48.05 320 47.6 352 80 352C106.5 352 128 323.3 128 288S106.5 223.1 80 223.1c-32.43 0-31.72 32-55.64 32C10.91 255.1 0 245.1 0 231.6v-71.64c0-17.67 14.33-31.1 32-31.1h135.6C181.1 127.1 192 117.1 192 103.6c0-23.69-32-23.24-32-55.64c0-26.51 28.65-47.1 64-47.1s64 21.49 64 47.1c0 32.43-32 31.72-32 55.64c0 13.45 10.91 24.36 24.36 24.36H352c17.67 0 32 14.33 32 31.1v71.64c0 13.45 10.91 24.36 24.36 24.36c23.69 0 23.24-32 55.64-32C490.5 223.1 512 252.7 512 288z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Track Your Progress</h3></div><p class="uagb-ifb-desc">Monitor your improvements and stay motivated with performance tracking tools.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
+</div>
 
-<!-- wp:uagb/container {"block_id":"44d2fdca","backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","borderStyle":"","boxShadowColor":"rgba(0,0,0,0.1)","boxShadowBlur":30,"boxShadowSpread":0,"topPaddingDesktop":30,"bottomPaddingDesktop":30,"leftPaddingDesktop":30,"rightPaddingDesktop":30,"topPaddingTablet":30,"bottomPaddingTablet":30,"leftPaddingTablet":10,"rightPaddingTablet":10,"paddingLink":false,"topMarginDesktop":20,"bottomMarginDesktop":20,"leftMarginDesktop":20,"rightMarginDesktop":20,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":10,"rightMarginTablet":0,"leftMarginMobile":0,"marginLink":false,"variationSelected":true,"containerBorderTopLeftRadius":5,"containerBorderTopRightRadius":5,"containerBorderBottomLeftRadius":5,"containerBorderBottomRightRadius":5} -->
-<div class="wp-block-uagb-container uagb-block-44d2fdca"><!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Access \u003cstrong\u003erealistic practice questions\u003c/strong\u003e with clear \u003cstrong\u003erationales\u003c/strong\u003e explaining the correct answers and why others are wrong","headingColor":"","subHeadingColor":"","icon":"cube","iconSize":42,"iconColor":"var(\u002d\u002dast-global-color-0)","headSpace":8,"subHeadSpace":0,"block_id":"b12170d6","ctaLinkColor":"#333","ctaBtnLinkColor":"#333","ctaBgColor":"transparent","ctaBgHoverColor":"transparent","ctaBorderColor":"","ctaBorderStyle":"","iconLeftMargin":0,"iconRightMargin":0,"iconTopMargin":0,"iconBottomMargin":7,"iconMarginBottomTablet":20,"iconMarginTopMobile":0,"iconMarginRightMobile":0,"iconMarginBottomMobile":10,"iconMarginLeftMobile":0,"paddingBtnTop":10,"paddingBtnBottom":10,"paddingBtnLeft":14,"paddingBtnRight":14,"headTopMargin":0,"headRightMargin":0,"headLeftMargin":0,"headMarginTopTablet":0,"headMarginRightTablet":0,"headTabletSpace":10,"headMarginLeftTablet":0,"headMarginTopMobile":0,"headMarginRightMobile":0,"headMobileSpace":10,"headMarginLeftMobile":0,"blockTopPadding":0,"blockRightPadding":0,"blockLeftPadding":0,"blockBottomPadding":15,"blockTopPaddingTablet":0,"blockRightPaddingTablet":0,"blockLeftPaddingTablet":0,"blockBottomPaddingTablet":0,"blockPaddingLink":false,"subHeadTopMargin":0,"subHeadRightMargin":0,"subHeadLeftMargin":0,"subHeadMarginTopTablet":0,"subHeadMarginRightTablet":0,"subHeadTabletSpace":0,"subHeadMarginLeftTablet":0,"subHeadMarginTopMobile":0,"subHeadMarginRightMobile":0,"subHeadMobileSpace":0,"subHeadMarginLeftMobile":0,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"solid","btnBorderColor":"#333"} -->
+
+
+<div class="wp-block-uagb-container uagb-block-44d2fdca">
 <div class="wp-block-uagb-info-box uagb-block-b12170d6 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M234.5 5.709C248.4 .7377 263.6 .7377 277.5 5.709L469.5 74.28C494.1 83.38 512 107.5 512 134.6V377.4C512 404.5 494.1 428.6 469.5 437.7L277.5 506.3C263.6 511.3 248.4 511.3 234.5 506.3L42.47 437.7C17 428.6 0 404.5 0 377.4V134.6C0 107.5 17 83.38 42.47 74.28L234.5 5.709zM256 65.98L82.34 128L256 190L429.7 128L256 65.98zM288 434.6L448 377.4V189.4L288 246.6V434.6z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><strong>Quality Resources</strong></h3></div><p class="uagb-ifb-desc">Access <strong>realistic practice questions</strong> with clear <strong>rationales</strong> explaining the correct answers and why others are wrong</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container --></div></div>
-<!-- /wp:uagb/container -->
+</div>
+</div></div>
 
-<!-- wp:uagb/container {"block_id":"e3752e37","minHeightDesktop":357,"directionDesktop":"row","wrapDesktop":"wrap","backgroundType":"image","backgroundImageDesktop":{"uploading":false,"date":1670236903000,"filename":"Featured-Articles.png","menuOrder":0,"uploadedTo":1222,"type":"image","subtype":"png","id":1245,"title":"Featured Articles","url":"https://nurselytic.com/wp-content/uploads/2024/11/Featured-Articles.png","link":"https://websitedemos.net/childcare-blog-08/?attachment_id=1245","alt":"","author":"189","description":"","caption":"","name":"featured-articles","status":"inherit","modified":1670236903000,"mime":"image/png","icon":"https://nurselytic.com/wp-content/uploads/2024/11/default.png","dateFormatted":"December 5, 2022","nonces":{"update":"a873e32759","delete":"05b942463d","edit":"52b4f14f0b"},"editLink":"https://websitedemos.net/childcare-blog-08/wp-admin/post.php?post=1245\u0026action=edit","meta":false,"authorName":"aadhavanm","authorLink":"https://websitedemos.net/childcare-blog-08/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://websitedemos.net/childcare-blog-08/wp-admin/post.php?post=1222\u0026action=edit","filesizeInBytes":149285,"filesizeHumanReadable":"146 KB","context":"","height":4052,"width":7680,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://websitedemos.net/childcare-blog-08/wp-content/uploads/sites/1053/2022/12/Featured-Articles-150x150.png","orientation":"landscape"},"medium":{"height":158,"width":300,"url":"https://websitedemos.net/childcare-blog-08/wp-content/uploads/sites/1053/2022/12/Featured-Articles-300x158.png","orientation":"landscape"},"large":{"height":540,"width":1024,"url":"https://websitedemos.net/childcare-blog-08/wp-content/uploads/sites/1053/2022/12/Featured-Articles-1024x540.png","orientation":"landscape"},"full":{"url":"https://nurselytic.com/wp-content/uploads/2024/11/Featured-Articles.png","height":4052,"width":7680,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"topPaddingDesktop":150,"bottomPaddingDesktop":120,"leftPaddingDesktop":40,"rightPaddingDesktop":40,"topPaddingTablet":0,"bottomPaddingTablet":96,"leftPaddingTablet":40,"rightPaddingTablet":40,"topPaddingMobile":24,"bottomPaddingMobile":96,"leftPaddingMobile":24,"rightPaddingMobile":24,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":0,"topMarginMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"variationSelected":true,"rowGapTablet":0,"rowGapMobile":0,"columnGapTablet":0,"columnGapMobile":0,"isBlockRootParent":true} -->
-<div class="wp-block-uagb-container uagb-block-e3752e37 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:uagb/advanced-heading {"block_id":"4fbe69de","classMigrate":true,"headingDescToggle":false,"headingAlign":"center","subHeadingColor":"","headSpace":25,"headSpaceMobile":20,"headSpaceTablet":20,"subHeadSpace":30,"subHeadSpaceMobile":0,"headFontWeight":"700","headFontSize":35,"headFontSizeTablet":25,"blockTopPadding":0,"blockRightPadding":25,"blockLeftPadding":25,"blockBottomPadding":0,"blockTopPaddingTablet":0,"blockRightPaddingTablet":100,"blockLeftPaddingTablet":100,"blockBottomPaddingTablet":0,"blockRightPaddingMobile":0,"blockLeftPaddingMobile":0,"blockBottomPaddingMobile":20,"blockPaddingUnit":"%","blockTopMargin":0,"blockRightMargin":0,"blockLeftMargin":0,"blockBottomMargin":0} -->
+
+
+<div class="wp-block-uagb-container uagb-block-e3752e37 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-advanced-heading uagb-block-4fbe69de"><h2 class="uagb-heading-text">Explore Our Resources</h2></div>
-<!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:paragraph {"align":"center"} -->
+
+
 <p class="has-text-align-center">An All-Inclusive Test Prep Hub for Nursing Students</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:uagb/container {"block_id":"407fa12a","innerContentWidth":"alignfull","minHeightDesktop":185,"directionDesktop":"row","alignItemsTablet":"center","alignItemsMobile":"center","justifyContentDesktop":"space-between","topMarginDesktop":64,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginTablet":48,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapDesktop":13,"columnGapMobile":20,"isBlockRootParent":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-container uagb-block-407fa12a alignfull uagb-is-root-container"><!-- wp:uagb/container {"block_id":"23c53309","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":32,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-23c53309"><!-- wp:uagb/image {"block_id":"b2b848c2","url":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg","align":"left","id":163,"linkDestination":"none","title":"ATI TEAS 7 COURSE FOR NURSING STUDENTS","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image alignleft uagb-block-b2b848c2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-left uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-163" width="310" height="270" title="ATI TEAS 7 COURSE FOR NURSING STUDENTS" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Our \u003ca href=\u0022https://nurselytic.com/library/testbanks/ati-teas-7\u0022\u003eTEAS resources\u003c/a\u003e are crafted to help you conquer the TEAS sections on\u003cbr\u003eReading, Math, Science, and English. With \u003ca href=\u0022https://nurselytic.com/library/exact-questions/ati-teas-7\u0022\u003eactual ATI TEAS 7 questions\u003c/a\u003e,\u003cbr\u003ebreakdowns of challenging concepts, and thorough explanations, you’ll be\u003cbr\u003eprepared for every part of the exam.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"0b0fed25","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/ati-teas-7","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
+
+<div class="wp-block-uagb-container uagb-block-407fa12a alignfull uagb-is-root-container">
+<div class="wp-block-uagb-container uagb-block-23c53309">
+<div class="wp-block-uagb-image alignleft uagb-block-b2b848c2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-left uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img fetchpriority="high" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/ATI-TEAS-7-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-163" width="310" height="270" title="ATI TEAS 7 COURSE FOR NURSING STUDENTS"  role="img"/></figure></div>
+
+
+
 <div class="wp-block-uagb-info-box uagb-block-0b0fed25 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/ati-teas-7-practice-test/">ATI TEAS 7</a></h4></div><p class="uagb-ifb-desc">Our <a href="https://nurselytic.com/library/testbanks/ati-teas-7">TEAS resources</a> are crafted to help you conquer the TEAS sections on<br>Reading, Math, Science, and English. With <a href="https://nurselytic.com/library/exact-questions/ati-teas-7">actual ATI TEAS 7 questions</a>,<br>breakdowns of challenging concepts, and thorough explanations, you’ll be<br>prepared for every part of the exam.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
+</div>
 
-<!-- wp:uagb/container {"block_id":"89375aa4","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":32,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapMobile":0,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-89375aa4"><!-- wp:uagb/image {"block_id":"8d25d162","url":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg","id":166,"linkDestination":"none","title":"HESI A2 COURSE","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image uagb-block-8d25d162 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1-1024x1024.jpg" alt="" class="uag-image-166" width="310" height="270" title="HESI A2 COURSE" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Ace your HESI A2 with \u003ca href=\u0022https://nurselytic.com/library/exact-questions/hesi-a2\u0022\u003eActual HESI A2 questions\u003c/a\u003e, dedicated practice tests, in-\u003cbr\u003edepth quizzes, and study tips for each subject area, from Anatomy and Physiology\u003cbr\u003eto Math and Chemistry. Our \u003ca href=\u0022https://nurselytic.com/library/testbanks/hesi-a2\u0022\u003eHESI resources\u003c/a\u003e are crafted to simplify complex topics\u003cbr\u003eand strengthen weak areas.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"b8e61332","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/hesi-a2","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
+
+<div class="wp-block-uagb-container uagb-block-89375aa4">
+<div class="wp-block-uagb-image uagb-block-8d25d162 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/HESI-A2-COURSE-1-1-1024x1024.jpg" alt="" class="uag-image-166" width="310" height="270" title="HESI A2 COURSE"  role="img"/></figure></div>
+
+
+
 <div class="wp-block-uagb-info-box uagb-block-b8e61332 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/hesi-a2-exam/"><span style="text-decoration: underline;">HESI A2</span></a></h4></div><p class="uagb-ifb-desc">Ace your HESI A2 with <a href="https://nurselytic.com/library/exact-questions/hesi-a2">Actual HESI A2 questions</a>, dedicated practice tests, in-<br>depth quizzes, and study tips for each subject area, from Anatomy and Physiology<br>to Math and Chemistry. Our <a href="https://nurselytic.com/library/testbanks/hesi-a2">HESI resources</a> are crafted to simplify complex topics<br>and strengthen weak areas.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
+</div>
 
-<!-- wp:uagb/container {"block_id":"7f61c469","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapMobile":0,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-7f61c469"><!-- wp:uagb/image {"block_id":"68c43f92","url":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg","id":167,"linkDestination":"none","title":"ATI EXAMS FORV NURSING STUDENTS","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image uagb-block-68c43f92 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-167" width="310" height="270" title="ATI EXAMS FORV NURSING STUDENTS" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"From ATI Nursing Care to Maternal and Pediatric Nursing, our \u003ca href=\u0022https://nurselytic.com/library/testbanks/nursing/ati-rn\u0022\u003eATI resources\u003c/a\u003e\u003cbr\u003ecover a wide range of nursing topics to help you pass every exam with confidence.\u003cbr\u003eEach question is paired with detailed explanations and rationales to deepen your\u003cbr\u003eunderstanding.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"9f3c7bcc","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/ati-exams","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
+
+<div class="wp-block-uagb-container uagb-block-7f61c469">
+<div class="wp-block-uagb-image uagb-block-68c43f92 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/ATI-EXAMS-FORV-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-167" width="310" height="270" title="ATI EXAMS FORV NURSING STUDENTS"  role="img"/></figure></div>
+
+
+
 <div class="wp-block-uagb-info-box uagb-block-9f3c7bcc uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/ati-content-mastery-series/">ATI Exams</a></h4></div><p class="uagb-ifb-desc">From ATI Nursing Care to Maternal and Pediatric Nursing, our <a href="https://nurselytic.com/library/testbanks/nursing/ati-rn">ATI resources</a><br>cover a wide range of nursing topics to help you pass every exam with confidence.<br>Each question is paired with detailed explanations and rationales to deepen your<br>understanding.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container --></div>
-<!-- /wp:uagb/container -->
+</div>
+</div>
 
-<!-- wp:uagb/container {"block_id":"afcff04d","innerContentWidth":"alignfull","minHeightDesktop":185,"directionDesktop":"row","alignItemsDesktop":"stretch","alignItemsTablet":"stretch","alignItemsMobile":"stretch","justifyContentDesktop":"space-between","topMarginDesktop":64,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginTablet":48,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapDesktop":13,"columnGapMobile":20,"isBlockRootParent":true,"widthSetByUser":true,"equalHeight":true} -->
-<div class="wp-block-uagb-container uagb-block-afcff04d alignfull uagb-is-root-container"><!-- wp:uagb/container {"block_id":"96832aa9","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":32,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-96832aa9"><!-- wp:uagb/image {"block_id":"79b225f7","url":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg","id":168,"linkDestination":"none","title":"HESI EXAMS COURSE FOR NURSING STUDENTS","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image uagb-block-79b225f7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-168" width="310" height="270" title="HESI EXAMS COURSE FOR NURSING STUDENTS" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Get ready for \u003ca href=\u0022https://nurselytic.com/library/testbanks/nursing/hesi-rn\u0022\u003eHESI exams\u003c/a\u003e with practice questions that mirror real test content. Our\u003cbr\u003ebank includes questions across\u003ca href=\u0022https://nurselytic.com/library/testbanks/nursing/hesi-lpn\u0022\u003e HESI exam types\u003c/a\u003e, ensuring you're prepared for\u003cbr\u003eevery subject area tested. Expect detailed feedback and rationales for each\u003cbr\u003equestion to enhance retention.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"5fb8ed75","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/hesi-exams","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
-<div class="wp-block-uagb-info-box uagb-block-5fb8ed75 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/hesi-specialty-exams/">HESI Exams</a></h4></div><p class="uagb-ifb-desc">Get ready for <a href="https://nurselytic.com/library/testbanks/nursing/hesi-rn">HESI exams</a> with practice questions that mirror real test content. Our<br>bank includes questions across<a href="https://nurselytic.com/library/testbanks/nursing/hesi-lpn"> HESI exam types</a>, ensuring you're prepared for<br>every subject area tested. Expect detailed feedback and rationales for each<br>question to enhance retention.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
 
-<!-- wp:uagb/container {"block_id":"60e7f34f","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":32,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapMobile":0,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-60e7f34f"><!-- wp:uagb/image {"block_id":"edcb7a87","url":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg","id":169,"linkDestination":"none","title":"nclex pnCOURSE FOR NURSING STUDENTS","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image uagb-block-edcb7a87 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-169" width="310" height="270" title="nclex pnCOURSE FOR NURSING STUDENTS" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
+<div class="wp-block-uagb-container uagb-block-afcff04d alignfull uagb-is-root-container">
+<div class="wp-block-uagb-container uagb-block-96832aa9">
+<div class="wp-block-uagb-image uagb-block-79b225f7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img loading="lazy" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="auto, (max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/HESI-EXAMS-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-168" width="310" height="270" title="HESI EXAMS COURSE FOR NURSING STUDENTS"  role="img"/></figure></div>
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Our\u003ca href=\u0022https://nurselytic.com/library/testbanks/nclex-pn\u0022\u003e NCLEX PN resources\u003c/a\u003e simulate real-world nursing scenarios to develop your\u003cbr\u003ecritical-thinking skills and decision-making ability. Each question is formatted in\u003cbr\u003ethe style of the NCLEX PN, preparing you to face a wide variety of question types\u003cbr\u003eand topics.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"7d62f897","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/nclex-pn","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
+
+
+<div class="wp-block-uagb-info-box uagb-block-5fb8ed75 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/hesi-specialty-exams/">HESI Exams</a></h4></div><p class="uagb-ifb-desc">Get ready for <a href="https://nurselytic.com/library/testbanks/nursing/hesi-rn">HESI exams</a> with practice questions that mirror real test content. Our<br>bank includes questions across<a href="https://nurselytic.com/library/testbanks/nursing/hesi-lpn"> HESI exam types</a>, ensuring you&#8217;re prepared for<br>every subject area tested. Expect detailed feedback and rationales for each<br>question to enhance retention.</p></div></div>
+</div>
+
+
+
+<div class="wp-block-uagb-container uagb-block-60e7f34f">
+<div class="wp-block-uagb-image uagb-block-edcb7a87 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img loading="lazy" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="auto, (max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/nclex-pnCOURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-169" width="310" height="270" title="nclex pnCOURSE FOR NURSING STUDENTS"  role="img"/></figure></div>
+
+
+
 <div class="wp-block-uagb-info-box uagb-block-7d62f897 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/nclex-pn-practice-questions/">NCLEX PN</a></h4></div><p class="uagb-ifb-desc">Our<a href="https://nurselytic.com/library/testbanks/nclex-pn"> NCLEX PN resources</a> simulate real-world nursing scenarios to develop your<br>critical-thinking skills and decision-making ability. Each question is formatted in<br>the style of the NCLEX PN, preparing you to face a wide variety of question types<br>and topics.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container -->
+</div>
 
-<!-- wp:uagb/container {"block_id":"a6f335ba","widthDesktop":33,"backgroundType":"color","backgroundSizeTablet":"cover","backgroundSizeMobile":"cover","backgroundColor":"var(\u002d\u002dast-global-color-5)","boxShadowColorHover":"rgba(0,0,0,0.01)","boxShadowVOffsetHover":40,"boxShadowBlurHover":80,"boxShadowSpreadHover":-24,"bottomPaddingDesktop":40,"leftPaddingDesktop":32,"rightPaddingDesktop":32,"bottomPaddingTablet":24,"leftPaddingTablet":16,"rightPaddingTablet":16,"topPaddingMobile":0,"bottomPaddingMobile":24,"leftPaddingMobile":16,"rightPaddingMobile":16,"paddingLink":false,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":32,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":8,"topMarginMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"marginLink":false,"variationSelected":true,"rowGapMobile":20,"columnGapMobile":0,"widthSetByUser":true,"containerBorderTopWidth":1,"containerBorderLeftWidth":1,"containerBorderRightWidth":1,"containerBorderBottomWidth":1,"containerBorderTopLeftRadius":16,"containerBorderTopRightRadius":16,"containerBorderBottomLeftRadius":16,"containerBorderBottomRightRadius":16,"containerBorderStyle":"solid","containerBorderColor":"#f2f3fa"} -->
-<div class="wp-block-uagb-container uagb-block-a6f335ba"><!-- wp:uagb/image {"block_id":"496d39f0","url":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg","urlTablet":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg","urlMobile":"https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg","id":170,"linkDestination":"none","title":"nclex  rn COURSE FOR NURSING STUDENTS","width":310,"height":270,"naturalWidth":368,"naturalHeight":240,"sizeSlug":"custom","sizeSlugTablet":"large","sizeSlugMobile":"large","imageTopMargin":0,"imageRightMargin":-32,"imageLeftMargin":-32,"imageBottomMargin":16,"imageTopMarginTablet":0,"imageRightMarginTablet":-16,"imageLeftMarginTablet":-16,"imageBottomMarginTablet":20,"imageTopMarginMobile":0,"imageRightMarginMobile":-16,"imageLeftMarginMobile":-16,"imageBottomMarginMobile":0,"imageMarginLink":false,"objectFit":"cover","customHeightSetDesktop":true,"imageBorderTopLeftRadius":16,"imageBorderTopRightRadius":16,"imageBorderBottomLeftRadius":16,"imageBorderBottomRightRadius":16,"imageBorderTopLeftRadiusTablet":16,"imageBorderTopRightRadiusTablet":16,"imageBorderBottomLeftRadiusTablet":16,"imageBorderBottomRightRadiusTablet":16,"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<div class="wp-block-uagb-image uagb-block-496d39f0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img srcset="https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="(max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-170" width="310" height="270" title="nclex  rn COURSE FOR NURSING STUDENTS" loading="lazy" role="img"/></figure></div>
-<!-- /wp:uagb/image -->
 
-<!-- wp:uagb/info-box {"classMigrate":true,"tempHeadingDesc":"Gain access to an extensive library of practice questions, case studies, and\u003cbr\u003erationales specifically designed for the \u003ca href=\u0022https://nurselytic.com/library/testbanks/nclex-rn\u0022\u003eNCLEX RN\u003c/a\u003e. Master every area of nursing,\u003cbr\u003efrom patient care to pharmacology, with our high-quality resources and pass\u003cbr\u003econfidently on your first attempt.","headingAlign":"left","headingColor":"","subHeadingColor":"","headingTag":"h4","subHeadFontSize":14,"headSpace":20,"block_id":"bcc95892","showCtaIcon":false,"ctaIconSpace":8,"ctaBgType":"transparent","ctaBgHoverType":"transparent","ctaLink":"https://nurselytic.com/nclex-rn","ctaBtnLinkColor":"var(\u002d\u002dast-global-color-0)","ctaBgColor":"","ctaBgHoverColor":"","ctaBorderColor":"","ctaBorderStyle":"","showIcon":false,"paddingBtnTop":0,"paddingBtnBottom":0,"paddingBtnLeft":0,"paddingBtnRight":0,"headMarginTopTablet":0,"headMarginRightTablet":18,"headTabletSpace":20,"headMarginLeftTablet":0,"subHeadTabletSpace":20,"btnBorderTopWidth":1,"btnBorderLeftWidth":1,"btnBorderRightWidth":1,"btnBorderBottomWidth":1,"btnBorderTopLeftRadius":0,"btnBorderTopRightRadius":0,"btnBorderBottomLeftRadius":0,"btnBorderBottomRightRadius":0,"btnBorderStyle":"none","btnBorderColor":"#333"} -->
+
+<div class="wp-block-uagb-container uagb-block-a6f335ba">
+<div class="wp-block-uagb-image uagb-block-496d39f0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none uag-hide-mob"><figure class="wp-block-uagb-image__figure"><img loading="lazy" decoding="async" srcset="https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg ,https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg 780w, https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS.jpg 360w" sizes="auto, (max-width: 480px) 150px" src="https://nurselytic.com/wp-content/uploads/2024/11/nclex-rn-COURSE-FOR-NURSING-STUDENTS-1024x1024.jpg" alt="" class="uag-image-170" width="310" height="270" title="nclex  rn COURSE FOR NURSING STUDENTS"  role="img"/></figure></div>
+
+
+
 <div class="wp-block-uagb-info-box uagb-block-bcc95892 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h4 class="uagb-ifb-title"><a href="https://nurselytic.com/nclex-rn-practice-questions/">NCLEX RN</a></h4></div><p class="uagb-ifb-desc">Gain access to an extensive library of practice questions, case studies, and<br>rationales specifically designed for the <a href="https://nurselytic.com/library/testbanks/nclex-rn">NCLEX RN</a>. Master every area of nursing,<br>from patient care to pharmacology, with our high-quality resources and pass<br>confidently on your first attempt.</p></div></div>
-<!-- /wp:uagb/info-box --></div>
-<!-- /wp:uagb/container --></div>
-<!-- /wp:uagb/container --></div></div>
-<!-- /wp:uagb/container -->
+</div>
+</div>
+</div></div>
 
-<!-- wp:kadence/rowlayout {"uniqueID":"61_b82c8b-70","columns":1,"customGutter":[32,"",""],"colLayout":"equal","bgColor":"palette9","overlayFirstOpacity":1,"topSep":"threelevelsi","topSepColor":"var(\u002d\u002dast-global-color-1)","topSepHeight":79,"bottomSep":"threelevelsi","bottomSepColor":"var(\u002d\u002dast-global-color-1)","bottomSepHeight":63,"inheritMaxWidth":true,"bgColorClass":"theme-palette9","padding":["xs","","",""],"kbVersion":2} -->
-<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"61_ba4bb3-9a","textAlign":["left","",""],"direction":["vertical","",""],"wrapContent":["wrap","",""],"kbVersion":2,"className":"inner-column-1"} -->
-<div class="wp-block-kadence-column kadence-column61_ba4bb3-9a kb-section-dir-vertical inner-column-1"><div class="kt-inside-inner-col"><!-- wp:kadence/rowlayout {"uniqueID":"61_14b291-55","columns":1,"colLayout":"equal","maxWidth":760,"padding":["sm","","lg",""],"kbVersion":2} -->
-<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"61_ff9b69-8e","kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_ff9b69-8e"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"61_35d24a-92","align":"center","color":"palette1","letterSpacing":2,"margin":["0","","sm",""],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"textTransform":"uppercase","colorClass":"theme-palette1","htmlTag":"div","fontSize":["sm","",""],"fontHeight":[null,"",""],"fontHeightType":"em","maxWidth":[null,"",""]} -->
+
+<div class="kb-row-layout-wrap kb-row-layout-id61_b82c8b-70 alignnone has-theme-palette9-background-color kt-row-has-bg wp-block-kadence-rowlayout"><div class="kt-row-layout-top-sep kt-row-sep-type-threelevelsi"><svg viewBox="0 0 1000 100" preserveAspectRatio="none"><path style="opacity: 0.33" d="M1000 95L0 0v100h1000v-5z"></path><path style="opacity: 0.66" d="M1000 95L0 27.056V100h1000v-5z"></path><path d="M1000 95L0 54.113V100h1000v-5z"></path></svg></div><div class="kt-row-layout-bottom-sep kt-row-sep-type-threelevelsi"><svg viewBox="0 0 1000 100" preserveAspectRatio="none"><path style="opacity: 0.33" d="M1000 95L0 0v100h1000v-5z"></path><path style="opacity: 0.66" d="M1000 95L0 27.056V100h1000v-5z"></path><path d="M1000 95L0 54.113V100h1000v-5z"></path></svg></div><div class="kt-row-column-wrap kt-has-1-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top kb-theme-content-width">
+
+<div class="wp-block-kadence-column kadence-column61_ba4bb3-9a kb-section-dir-vertical inner-column-1"><div class="kt-inside-inner-col"><div class="kb-row-layout-wrap kb-row-layout-id61_14b291-55 alignnone wp-block-kadence-rowlayout"><div class="kt-row-column-wrap kt-has-1-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top">
+
+<div class="wp-block-kadence-column kadence-column61_ff9b69-8e"><div class="kt-inside-inner-col">
 <div class="kt-adv-heading61_35d24a-92 wp-block-kadence-advancedheading has-theme-palette-1-color has-text-color" data-kb-block="kb-adv-heading61_35d24a-92"></div>
-<!-- /wp:kadence/advancedheading -->
 
-<!-- wp:kadence/advancedheading {"uniqueID":"61_6f4ade-08","align":"center","color":"palette3","letterSpacingType":"em","margin":["0","","sm",""],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette3","fontSize":["xl","",""],"fontHeight":[1.2,"",""],"fontHeightType":"em","maxWidth":[null,"",""],"maxWidthType":"%"} -->
+
+
 <h2 class="kt-adv-heading61_6f4ade-08 wp-block-kadence-advancedheading has-theme-palette-3-color has-text-color" data-kb-block="kb-adv-heading61_6f4ade-08"><strong>Why Choose Nurselytic</strong></h2>
-<!-- /wp:kadence/advancedheading -->
 
-<!-- wp:kadence/advancedheading {"uniqueID":"61_b316a1-91","align":"center","color":"palette3","letterSpacingType":"em","margin":["0","","sm",""],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette3","htmlTag":"p","fontHeight":[null,"",""],"fontHeightType":"em","maxWidth":[null,"",""]} -->
-<p class="kt-adv-heading61_b316a1-91 wp-block-kadence-advancedheading has-theme-palette-3-color has-text-color" data-kb-block="kb-adv-heading61_b316a1-91">At Nurselytic, we are dedicated to providing nursing test banks that meet the evolving needs of nursing students, especially with the introduction of the <a href="https://www.nclex.com/next-generation-nclex.page">New Generation&nbsp;NCLEX exams</a>. Here's why we stand out:</p>
-<!-- /wp:kadence/advancedheading --></div></div>
-<!-- /wp:kadence/column -->
-<!-- /wp:kadence/rowlayout -->
 
-<!-- wp:kadence/rowlayout {"uniqueID":"61_72586e-58","collapseGutter":"wider","tabletRowGutter":"wider","customRowGutter":[60,60,""],"customGutter":[32,"",""],"colLayout":"equal","padding":["sm","","xl",""],"kbVersion":2} -->
-<!-- wp:kadence/column {"background":"palette9","borderWidth":["","","",""],"uniqueID":"61_edd5f3-bb","linkColor":"palette3","linkHoverColor":"palette4","padding":["0","0","0","0"],"kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_edd5f3-bb"><div class="kt-inside-inner-col"><!-- wp:kadence/infobox {"uniqueID":"61_1cdfa0-af","containerBackground":"palette1","containerPadding":["md","xs","md","xs"],"mediaIcon":[{"icon":"fas_star-of-life","size":50,"width":2,"title":"","color":"palette9","hoverColor":"palette9","hoverAnimation":"none","flipIcon":"","tabletSize":"","mobileSize":""}],"titleColor":"palette9","titleHoverColor":"palette9","textColor":"palette9","textHoverColor":"palette9","kbVersion":2} -->
-<div class="wp-block-kadence-infobox kt-info-box61_1cdfa0-af"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span data-name="fas_star-of-life" data-class="kt-info-svg-icon" class="kadence-dynamic-icon"></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title">Extensive Nursing Test Bank Coverage</h2><p class="kt-blocks-info-box-text">Nurselytic is designed to meet the needs of today’s nursing students. We offer a broad, carefully curated test bank that includes targeted resources for ATI TEAS 7, HESI A2, ATI Exams, HESI Exams, NCLEX PN, and NCLEX RN. With our content, you’ll feel prepared, confident, and ready to succeed on test day.</p></div></span></div>
-<!-- /wp:kadence/infobox --></div></div>
-<!-- /wp:kadence/column -->
 
-<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"61_6fd433-92","kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_6fd433-92"><div class="kt-inside-inner-col"><!-- wp:kadence/infobox {"uniqueID":"61_728c26-c1","containerBackground":"palette2","containerHoverBackground":"palette2","containerPadding":["md","xs","md","xs"],"mediaIcon":[{"icon":"fe_refreshCw","size":50,"width":2,"title":"","color":"palette9","hoverColor":"palette9","hoverAnimation":"none","flipIcon":"","tabletSize":"","mobileSize":""}],"titleColor":"palette9","titleHoverColor":"palette9","textColor":"palette9","textHoverColor":"palette9","kbVersion":2} -->
-<div class="wp-block-kadence-infobox kt-info-box61_728c26-c1"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span data-name="fe_refreshCw" data-stroke="2" data-class="kt-info-svg-icon" class="kadence-dynamic-icon"></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Accurate, Trusted Content</strong></h2><p class="kt-blocks-info-box-text">Every question, guide, and practice test on Nurselytic is written and reviewed by experienced nursing professionals and educators. This means you’re studying with materials that match the rigor and content of your exams, allowing you to focus on what’s most important.</p></div></span></div>
-<!-- /wp:kadence/infobox --></div></div>
-<!-- /wp:kadence/column -->
-<!-- /wp:kadence/rowlayout -->
+<p class="kt-adv-heading61_b316a1-91 wp-block-kadence-advancedheading has-theme-palette-3-color has-text-color" data-kb-block="kb-adv-heading61_b316a1-91">At Nurselytic, we are dedicated to providing nursing test banks that meet the evolving needs of nursing students, especially with the introduction of the <a href="https://www.nclex.com/next-generation-nclex.page">New Generation&nbsp;NCLEX exams</a>. Here&#8217;s why we stand out:</p>
+</div></div>
 
-<!-- wp:kadence/rowlayout {"uniqueID":"61_ef5de1-16","collapseGutter":"wider","tabletRowGutter":"wider","customRowGutter":[60,60,""],"customGutter":[32,"",""],"colLayout":"equal","padding":["sm","","xl",""],"kbVersion":2} -->
-<!-- wp:kadence/column {"background":"palette9","borderWidth":["","","",""],"uniqueID":"61_1ea826-85","linkColor":"palette3","linkHoverColor":"palette4","padding":["0","0","0","0"],"kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_1ea826-85"><div class="kt-inside-inner-col"><!-- wp:kadence/infobox {"uniqueID":"61_c37d2b-8d","containerBackground":"palette1","containerPadding":["md","xs","md","xs"],"mediaIcon":[{"icon":"fe_watch","size":50,"width":2,"title":"","color":"palette9","hoverColor":"palette9","hoverAnimation":"none","flipIcon":"","tabletSize":"","mobileSize":""}],"titleColor":"palette9","titleHoverColor":"palette9","textColor":"palette9","textHoverColor":"palette9","kbVersion":2} -->
-<div class="wp-block-kadence-infobox kt-info-box61_c37d2b-8d"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span data-name="fe_watch" data-stroke="2" data-class="kt-info-svg-icon" class="kadence-dynamic-icon"></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Progressive Learning Experience</strong></h2><p class="kt-blocks-info-box-text">Whether you're just starting or getting ready to review, our materials grow with you, building a strong foundation and preparing you to apply your knowledge confidently.</p></div></span></div>
-<!-- /wp:kadence/infobox --></div></div>
-<!-- /wp:kadence/column -->
+</div></div>
 
-<!-- wp:kadence/column {"id":3,"borderWidth":["","","",""],"uniqueID":"61_0d436d-27","kbVersion":2} -->
-<div class="wp-block-kadence-column kadence-column61_0d436d-27"><div class="kt-inside-inner-col"><!-- wp:kadence/infobox {"uniqueID":"61_29ddc9-9f","containerBackground":"#045cb4","containerHoverBackground":"#045cb4","containerPadding":["md","xs","md","xs"],"mediaIcon":[{"icon":"fas_mobile-alt","size":50,"width":2,"title":"","color":"palette9","hoverColor":"palette9","hoverAnimation":"none","flipIcon":"","tabletSize":"","mobileSize":""}],"titleColor":"palette9","titleHoverColor":"palette9","textColor":"palette9","textHoverColor":"palette9","kbVersion":2} -->
-<div class="wp-block-kadence-infobox kt-info-box61_29ddc9-9f"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span data-name="fas_mobile-alt" data-class="kt-info-svg-icon" class="kadence-dynamic-icon"></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Flexible and Mobile-Friendly</strong></h2><p class="kt-blocks-info-box-text">Study whenever and wherever it’s convenient for you. Nurselytic is optimized for phones, tablets, and computers, making it easy to fit test prep into your schedule.</p></div></span></div>
-<!-- /wp:kadence/infobox --></div></div>
-<!-- /wp:kadence/column -->
-<!-- /wp:kadence/rowlayout --></div></div>
-<!-- /wp:kadence/column -->
-<!-- /wp:kadence/rowlayout -->
+<div class="kb-row-layout-wrap kb-row-layout-id61_72586e-58 alignnone wp-block-kadence-rowlayout"><div class="kt-row-column-wrap kt-has-2-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top">
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"120px","right":"var:preset|spacing|40","bottom":"120px","left":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","textColor":"heading-color","layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-heading-color-color has-background-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:120px;padding-right:var(--wp--preset--spacing--40);padding-bottom:120px;padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"780px"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"4px"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"small","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<h5 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-small-font-size uag-hide-mob" id="h-how-nurselytic-helps-you-succeed" style="letter-spacing:4px;text-transform:uppercase"><strong>How Nurselytic Helps You Succeed</strong></h5>
-<!-- /wp:heading -->
+<div class="wp-block-kadence-column kadence-column61_edd5f3-bb"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-infobox kt-info-box61_1cdfa0-af"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span class="kb-svg-icon-wrap kb-svg-icon-fas_star-of-life kt-info-svg-icon"><svg viewBox="0 0 480 512"  fill="currentColor" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M471.99 334.43L336.06 256l135.93-78.43c7.66-4.42 10.28-14.2 5.86-21.86l-32.02-55.43c-4.42-7.65-14.21-10.28-21.87-5.86l-135.93 78.43V16c0-8.84-7.17-16-16.01-16h-64.04c-8.84 0-16.01 7.16-16.01 16v156.86L56.04 94.43c-7.66-4.42-17.45-1.79-21.87 5.86L2.15 155.71c-4.42 7.65-1.8 17.44 5.86 21.86L143.94 256 8.01 334.43c-7.66 4.42-10.28 14.21-5.86 21.86l32.02 55.43c4.42 7.65 14.21 10.27 21.87 5.86l135.93-78.43V496c0 8.84 7.17 16 16.01 16h64.04c8.84 0 16.01-7.16 16.01-16V339.14l135.93 78.43c7.66 4.42 17.45 1.8 21.87-5.86l32.02-55.43c4.42-7.65 1.8-17.43-5.86-21.85z"/></svg></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title">Extensive Nursing Test Bank Coverage</h2><p class="kt-blocks-info-box-text">Nurselytic is designed to meet the needs of today’s nursing students. We offer a broad, carefully curated test bank that includes targeted resources for ATI TEAS 7, HESI A2, ATI Exams, HESI Exams, NCLEX PN, and NCLEX RN. With our content, you’ll feel prepared, confident, and ready to succeed on test day.</p></div></span></div>
+</div></div>
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"48px","lineHeight":"1.3"}}} -->
+
+
+<div class="wp-block-kadence-column kadence-column61_6fd433-92"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-infobox kt-info-box61_728c26-c1"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span class="kb-svg-icon-wrap kb-svg-icon-fe_refreshCw kt-info-svg-icon"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Accurate, Trusted Content</strong></h2><p class="kt-blocks-info-box-text">Every question, guide, and practice test on Nurselytic is written and reviewed by experienced nursing professionals and educators. This means you’re studying with materials that match the rigor and content of your exams, allowing you to focus on what’s most important.</p></div></span></div>
+</div></div>
+
+</div></div>
+
+<div class="kb-row-layout-wrap kb-row-layout-id61_ef5de1-16 alignnone wp-block-kadence-rowlayout"><div class="kt-row-column-wrap kt-has-2-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top">
+
+<div class="wp-block-kadence-column kadence-column61_1ea826-85"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-infobox kt-info-box61_c37d2b-8d"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span class="kb-svg-icon-wrap kb-svg-icon-fe_watch kt-info-svg-icon"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><circle cx="12" cy="12" r="7"/><polyline points="12 9 12 12 13.5 13.5"/><path d="M16.51 17.35l-.35 3.83a2 2 0 0 1-2 1.82H9.83a2 2 0 0 1-2-1.82l-.35-3.83m.01-10.7l.35-3.83A2 2 0 0 1 9.83 1h4.35a2 2 0 0 1 2 1.82l.35 3.83"/></svg></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Progressive Learning Experience</strong></h2><p class="kt-blocks-info-box-text">Whether you&#8217;re just starting or getting ready to review, our materials grow with you, building a strong foundation and preparing you to apply your knowledge confidently.</p></div></span></div>
+</div></div>
+
+
+
+<div class="wp-block-kadence-column kadence-column61_0d436d-27"><div class="kt-inside-inner-col">
+<div class="wp-block-kadence-infobox kt-info-box61_29ddc9-9f"><span class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span class="kb-svg-icon-wrap kb-svg-icon-fas_mobile-alt kt-info-svg-icon"><svg viewBox="0 0 320 512"  fill="currentColor" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm112-108c0 6.6-5.4 12-12 12H60c-6.6 0-12-5.4-12-12V60c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v312z"/></svg></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title"><strong>Flexible and Mobile-Friendly</strong></h2><p class="kt-blocks-info-box-text">Study whenever and wherever it’s convenient for you. Nurselytic is optimized for phones, tablets, and computers, making it easy to fit test prep into your schedule.</p></div></span></div>
+</div></div>
+
+</div></div></div></div>
+
+</div></div>
+
+
+<div class="wp-block-group has-heading-color-color has-background-background-color has-text-color has-background is-vertical is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-top:120px;padding-right:var(--wp--preset--spacing--40);padding-bottom:120px;padding-left:var(--wp--preset--spacing--40)">
+<div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-1 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0">
+<h5 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-small-font-size uag-hide-mob wp-elements-dd03932cff798bdb268ab8143cd96b26" id="h-how-nurselytic-helps-you-succeed" style="letter-spacing:4px;text-transform:uppercase"><strong>How Nurselytic Helps You Succeed</strong></h5>
+
+
+
 <h2 class="wp-block-heading has-text-align-center" id="h-our-structured-process-to-achieve-your-goals" style="font-size:48px;line-height:1.3">Our Structured Process to Achieve Your Goals</h2>
-<!-- /wp:heading --></div>
-<!-- /wp:group -->
+</div>
 
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"margin":{"top":"100px","bottom":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|80"},"padding":{"right":"0","left":"0"}},"layout":{"selfStretch":"fit","flexSize":null}}} -->
-<div class="wp-block-columns are-vertically-aligned-center" style="margin-top:100px;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-up","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"30px","lineHeight":"1"},"elements":{"link":{"color":{"text":"#00000099"}}},"color":{"text":"#00000099"}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" id="h-01" style="color:#00000099;font-size:30px;line-height:1">01</h1>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"large"} -->
+
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex" style="margin-top:100px;margin-bottom:0;padding-right:0;padding-left:0">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-container-core-column-is-layout-1 wp-block-column-is-layout-flow">
+<h1 class="wp-block-heading has-text-color has-link-color wp-elements-97e54238eb0ee9717e6a1ee9100641ba" id="h-01" style="color:#00000099;font-size:30px;line-height:1">01</h1>
+
+
+
 <h3 class="wp-block-heading has-large-font-size" id="h-real-exam-like-practice" style="font-style:normal;font-weight:600">Real Exam-Like Practice</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">Our nursing test bank isn’t just a collection of questions; it’s a training ground that mirrors the challenges you’ll face in your actual exams. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">Each question is crafted to resemble the format and difficulty of real test questions, giving you a true feel of the test experience.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
+</div>
 
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":3774,"width":"496px","sizeSlug":"full","linkDestination":"none","className":"fotawp-fade-left","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image size-full is-resized fotawp-fade-left uag-hide-mob"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_1.png" alt="" class="wp-image-3774" style="width:496px"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
 
-<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"top":"100px","bottom":"100px"}}}} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:100px;margin-bottom:100px"><!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-left"} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-left"><!-- wp:image {"id":3897,"width":"496px","sizeSlug":"full","linkDestination":"none","align":"right","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image alignright size-full is-resized uag-hide-mob"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_2.png" alt="" class="wp-image-3897" style="width:496px"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-up","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up"><!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1","fontSize":"50px"},"elements":{"link":{"color":{"text":"#00000096"}}},"color":{"text":"#00000096"}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" id="h-02" style="color:#00000096;font-size:50px;line-height:1">02</h1>
-<!-- /wp:heading -->
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized fotawp-fade-left uag-hide-mob"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_1.png" alt="" class="wp-image-3774" style="width:496px"/></figure>
+</div>
+</div>
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"large"} -->
+
+
+<div class="wp-block-columns alignwide are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex" style="margin-top:100px;margin-bottom:100px">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-left is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignright size-full is-resized uag-hide-mob"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_2.png" alt="" class="wp-image-3897" style="width:496px"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-container-core-column-is-layout-4 wp-block-column-is-layout-flow">
+<h1 class="wp-block-heading has-text-color has-link-color wp-elements-904ee99ddb5af5a27ef31a0bac4867cb" id="h-02" style="color:#00000096;font-size:50px;line-height:1">02</h1>
+
+
+
 <h3 class="wp-block-heading has-large-font-size" id="h-in-depth-explanations-and-rationales" style="font-style:normal;font-weight:600">In-Depth Explanations and Rationales</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">Every answer comes with a detailed explanation to clarify why it’s correct. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0px"}}}} -->
+
+
 <p style="margin-top:0px">This ensures that you’re memorizing answers and fully understanding the material, preparing you to apply your knowledge confidently.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+</div>
+</div>
 
-<!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-up","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"50px","lineHeight":"1"},"elements":{"link":{"color":{"text":"#0000008f"}}},"color":{"text":"#0000008f"}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" id="h-03" style="color:#0000008f;font-size:50px;line-height:1">03</h1>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"large"} -->
+
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-container-core-column-is-layout-5 wp-block-column-is-layout-flow">
+<h1 class="wp-block-heading has-text-color has-link-color wp-elements-605764d3e38e5a9ea71796152ce05e28" id="h-03" style="color:#0000008f;font-size:50px;line-height:1">03</h1>
+
+
+
 <h3 class="wp-block-heading has-large-font-size" id="h-track-your-progress-and-growth" style="font-style:normal;font-weight:600">Track Your Progress and Growth</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">With built-in tracking features, Nurselytic lets you monitor your improvement over time, giving you insights into your strengths and helping you identify areas that need more attention. Use this feedback to streamline your study approach as you get closer to test day.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
+</div>
 
-<!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-right"} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-right"><!-- wp:image {"id":3898,"width":"496px","height":"auto","sizeSlug":"full","linkDestination":"none","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image size-full is-resized uag-hide-mob"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_3.png" alt="" class="wp-image-3898" style="width:496px;height:auto"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
 
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"margin":{"top":"100px","bottom":"100px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center" style="margin-top:100px;margin-bottom:100px"><!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-left"} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-left"><!-- wp:image {"id":28,"width":"496px","sizeSlug":"full","linkDestination":"none","align":"right","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image alignright size-full is-resized uag-hide-mob"><img src="https://nurselytic.com/wp-content/uploads/2024/11/community.jpg" alt="" class="wp-image-28" style="width:496px"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-up","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up"><!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1","fontSize":"50px"},"elements":{"link":{"color":{"text":"#00000096"}}},"color":{"text":"#00000096"}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" id="h-02" style="color:#00000096;font-size:50px;line-height:1">04</h1>
-<!-- /wp:heading -->
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-right is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized uag-hide-mob"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/step_img_3.png" alt="" class="wp-image-3898" style="width:496px;height:auto"/></figure>
+</div>
+</div>
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"x-large"} -->
+
+
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex" style="margin-top:100px;margin-bottom:100px">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-left is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignright size-full is-resized uag-hide-mob"><img loading="lazy" decoding="async" width="612" height="408" src="https://nurselytic.com/wp-content/uploads/2024/11/community.jpg" alt="" class="wp-image-28" style="width:496px" srcset="https://nurselytic.com/wp-content/uploads/2024/11/community.jpg 612w, https://nurselytic.com/wp-content/uploads/2024/11/community-300x200.jpg 300w" sizes="auto, (max-width: 612px) 100vw, 612px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-container-core-column-is-layout-8 wp-block-column-is-layout-flow">
+<h1 class="wp-block-heading has-text-color has-link-color wp-elements-d6a23091e5d517c942d354267ca41067" id="h-02" style="color:#00000096;font-size:50px;line-height:1">04</h1>
+
+
+
 <h3 class="wp-block-heading has-x-large-font-size" id="h-engage-with-a-supportive-community" style="font-style:normal;font-weight:600">Engage with a Supportive Community</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">Join a network of other dedicated nursing students and professionals. Our community and support system allows you to ask questions, share insights, and stay motivated throughout your journey.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+</div>
+</div>
 
-<!-- wp:columns {"verticalAlignment":"center"} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-up","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"50px","lineHeight":"1"},"elements":{"link":{"color":{"text":"#00000087"}}},"color":{"text":"#00000087"}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" id="h-05" style="color:#00000087;font-size:50px;line-height:1">05</h1>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"large"} -->
+
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-container-core-column-is-layout-9 wp-block-column-is-layout-flow">
+<h1 class="wp-block-heading has-text-color has-link-color wp-elements-c95cc8ae4636d8732eac1feb2cf18d56" id="h-05" style="color:#00000087;font-size:50px;line-height:1">05</h1>
+
+
+
 <h3 class="wp-block-heading has-large-font-size" id="h-resource-packed-study-plans" style="font-style:normal;font-weight:600">Resource-Packed Study Plans</h3>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px"}}}} -->
+
+
 <p style="margin-top:24px">For each exam, we offer study plans tailored to guide your prep from start to finish. These plans organize your learning, ensuring you cover every section thoroughly without feeling overwhelmed.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
+</div>
 
-<!-- wp:column {"verticalAlignment":"center","className":"fotawp-fade-right"} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-right"><!-- wp:image {"id":29,"width":"496px","sizeSlug":"full","linkDestination":"none","UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image size-full is-resized uag-hide-mob"><img src="https://nurselytic.com/wp-content/uploads/2024/11/plans.jpg" alt="" class="wp-image-29" style="width:496px"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"120px","right":"0","bottom":"100px","left":"0"},"margin":{"top":"0","bottom":"0"}},"color":{"background":"#fffbf2"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-background" style="background-color:#fffbf2;margin-top:0;margin-bottom:0;padding-top:120px;padding-right:0;padding-bottom:100px;padding-left:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":"1180px"}} -->
-<div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"className":"fotawp-flip-up","layout":{"type":"constrained","contentSize":"740px"}} -->
-<div class="wp-block-group fotawp-flip-up"><!-- wp:heading {"textAlign":"center","level":6,"style":{"typography":{"fontStyle":"normal","fontWeight":"600","letterSpacing":"4px"}},"textColor":"primary","fontSize":"small"} -->
+
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-right is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized uag-hide-mob"><img loading="lazy" decoding="async" width="612" height="408" src="https://nurselytic.com/wp-content/uploads/2024/11/plans.jpg" alt="" class="wp-image-29" style="width:496px" srcset="https://nurselytic.com/wp-content/uploads/2024/11/plans.jpg 612w, https://nurselytic.com/wp-content/uploads/2024/11/plans-300x200.jpg 300w" sizes="auto, (max-width: 612px) 100vw, 612px" /></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull has-background is-layout-constrained wp-container-core-group-is-layout-14 wp-block-group-is-layout-constrained" style="background-color:#fffbf2;margin-top:0;margin-bottom:0;padding-top:120px;padding-right:0;padding-bottom:100px;padding-left:0">
+<div class="wp-block-group alignwide is-layout-constrained wp-container-core-group-is-layout-13 wp-block-group-is-layout-constrained" style="padding-bottom:var(--wp--preset--spacing--60)">
+<div class="wp-block-group fotawp-flip-up is-layout-constrained wp-container-core-group-is-layout-3 wp-block-group-is-layout-constrained">
 <h6 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-small-font-size" id="h-testimonials" style="font-style:normal;font-weight:600;letter-spacing:4px">TESTIMONIALS</h6>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"44px","lineHeight":"1.4"}},"textColor":"heading-color"} -->
+
+
 <h2 class="wp-block-heading has-text-align-center has-heading-color-color has-text-color" id="h-success-stories-from-nurselytic-students" style="font-size:44px;font-style:normal;font-weight:700;line-height:1.4"><strong>Success Stories from Nurselytic Students</strong></h2>
-<!-- /wp:heading --></div>
-<!-- /wp:group -->
+</div>
 
-<!-- wp:columns {"style":{"spacing":{"margin":{"top":"60px"},"blockGap":{"top":"var:preset|spacing|60","left":"var:preset|spacing|60"},"padding":{"right":"0","left":"0"}}}} -->
-<div class="wp-block-columns" style="margin-top:60px;padding-right:0;padding-left:0"><!-- wp:column {"className":"fotawp-fade-up"} -->
-<div class="wp-block-column fotawp-fade-up"><!-- wp:group {"className":"is-style-fotawp-boxshadow","style":{"border":{"radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|20"}},"backgroundColor":"foregound-alt","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":2897,"width":"auto","height":"20px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"}}} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6,"fontSize":"18px"},"spacing":{"margin":{"top":"14px"}}},"textColor":"sub-heading-color"} -->
-<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>"The study guides and practice questions at Nurselytic made my prep so much easier. The questions covered everything I needed to know, and I felt confident walking into my TEAS 7 exam."</em></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","margin":{"top":"var:preset|spacing|60"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--60)"><!-- wp:image {"id":1822,"width":"60px","height":"60px","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image is-resized has-custom-border"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_1.png" alt="" class="wp-image-1822" style="border-radius:50px;width:60px;height:60px"/></figure>
-<!-- /wp:image -->
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex" style="margin-top:60px;padding-right:0;padding-left:0">
+<div class="wp-block-column fotawp-fade-up is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-6 wp-block-group-is-layout-constrained" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized wp-duotone-unset-1"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600"}}} -->
+
+
+<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>&#8220;The study guides and practice questions at Nurselytic made my prep so much easier. The questions covered everything I needed to know, and I felt confident walking into my TEAS 7 exam.&#8221;</em></p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-5 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image is-resized has-custom-border"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_1.png" alt="" class="wp-image-1822" style="border-radius:50px;width:60px;height:60px"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4 wp-block-group-is-layout-flex">
 <h5 class="wp-block-heading" id="h-james-p" style="font-size:18px;font-style:normal;font-weight:600"><strong>James P.</strong></h5>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground","fontSize":"x-small"} -->
-<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size"><strong>Scored High on ATI TEAS 7</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
 
-<!-- wp:column {"className":"fotawp-fade-up"} -->
-<div class="wp-block-column fotawp-fade-up"><!-- wp:group {"className":"is-style-fotawp-boxshadow","style":{"border":{"radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|20"}},"backgroundColor":"foregound-alt","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":2897,"width":"auto","height":"20px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"}}} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6,"fontSize":"18px"},"spacing":{"margin":{"top":"14px"}}},"textColor":"sub-heading-color"} -->
-<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>"Nurselytic was my go-to resource. The questions were spot-on, and I could track my progress as I improved. With Nurselytic's  help, I passed my NCLEX RN on my first try with confidence . "</em>              </p>
-<!-- /wp:paragraph -->
+<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size wp-elements-5ea08bc85149e5b0f79d1fd698dc8e5c"><strong>Scored High on ATI TEAS 7</strong></p>
+</div>
+</div>
+</div>
+</div>
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","margin":{"top":"var:preset|spacing|60"}},"border":{"top":{"width":"0px","style":"none"},"right":[],"bottom":[],"left":[]}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="border-top-style:none;border-top-width:0px;margin-top:var(--wp--preset--spacing--60)"><!-- wp:image {"id":93,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_2.png" alt="" class="wp-image-93" style="border-radius:50px;width:60px;height:60px"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600"}}} -->
+
+<div class="wp-block-column fotawp-fade-up is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-9 wp-block-group-is-layout-constrained" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized wp-duotone-unset-2"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
+
+
+
+<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>&#8220;Nurselytic was my go-to resource. The questions were spot-on, and I could track my progress as I improved. With Nurselytic&#8217;s  help, I passed my NCLEX RN on my first try with confidence . &#8220;</em>              </p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-8 wp-block-group-is-layout-flex" style="border-top-style:none;border-top-width:0px;margin-top:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_2.png" alt="" class="wp-image-93" style="border-radius:50px;width:60px;height:60px"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-7 wp-block-group-is-layout-flex">
 <h5 class="wp-block-heading" id="h-emily-s" style="font-size:18px;font-style:normal;font-weight:600"><strong>Emily S.</strong></h5>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground","fontSize":"x-small"} -->
-<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size"><strong>Passed the NCLEX RN</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
 
-<!-- wp:column {"className":"fotawp-fade-up"} -->
-<div class="wp-block-column fotawp-fade-up"><!-- wp:group {"className":"is-style-fotawp-boxshadow","style":{"border":{"radius":"20px"},"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|20"}},"backgroundColor":"foregound-alt","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":2897,"width":"auto","height":"20px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"}}} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6,"fontSize":"18px"},"spacing":{"margin":{"top":"14px"}}},"textColor":"sub-heading-color"} -->
-<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>"I was struggling with my HESI A2 prep until I found Nurselytic. The explanations helped me truly understand the material, and the community support kept me motivated. Highly recommended!"</em></p>
-<!-- /wp:paragraph -->
+<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size wp-elements-43514ab63fd7a0b7acd7e3eafef58f6d"><strong>Passed the NCLEX RN</strong></p>
+</div>
+</div>
+</div>
+</div>
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","margin":{"top":"var:preset|spacing|60"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--60)"><!-- wp:image {"id":94,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image size-full is-resized has-custom-border"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_3.png" alt="" class="wp-image-94" style="border-radius:50px;width:60px;height:60px"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600"}}} -->
+
+<div class="wp-block-column fotawp-fade-up is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group is-style-fotawp-boxshadow has-foregound-alt-background-color has-background is-layout-constrained wp-container-core-group-is-layout-12 wp-block-group-is-layout-constrained" style="border-radius:20px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized wp-duotone-unset-3"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/review_star.svg" alt="" class="wp-image-2897" style="width:auto;height:20px"/></figure>
+
+
+
+<p class="has-sub-heading-color-color has-text-color" style="margin-top:14px;font-size:18px;line-height:1.6"><em>&#8220;I was struggling with my HESI A2 prep until I found Nurselytic. The explanations helped me truly understand the material, and the community support kept me motivated. Highly recommended!&#8221;</em></p>
+
+
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-11 wp-block-group-is-layout-flex" style="margin-top:var(--wp--preset--spacing--60)">
+<figure class="wp-block-image size-full is-resized has-custom-border"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/fota_testimonial_3.png" alt="" class="wp-image-94" style="border-radius:50px;width:60px;height:60px"/></figure>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-10 wp-block-group-is-layout-flex">
 <h5 class="wp-block-heading" id="h-sarah-l" style="font-size:18px;font-style:normal;font-weight:600">Sarah L.</h5>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground","fontSize":"x-small"} -->
-<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size"><strong>HESI A2 Success</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
 
-<!-- wp:cover {"isUserOverlayColor":true,"minHeight":360,"customGradient":"linear-gradient(108.08deg,rgb(214,243,246) 21%,rgb(190,165,253) 98%)","align":"full","className":"fotawp-zoom-in-up","style":{"spacing":{"padding":{"left":"64px","top":"10px","bottom":"10px","right":"64px"}},"border":{"radius":"20px"}},"layout":{"type":"constrained","contentSize":"1180px"}} -->
-<div class="wp-block-cover alignfull fotawp-zoom-in-up" style="border-radius:20px;padding-top:10px;padding-right:64px;padding-bottom:10px;padding-left:64px;min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim has-background-gradient" style="background:linear-gradient(108.08deg,rgb(214,243,246) 21%,rgb(190,165,253) 98%)"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"left":"100px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|heading-color"}}},"typography":{"fontSize":"48px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.3"}},"textColor":"heading-color"} -->
-<h2 class="wp-block-heading has-heading-color-color has-text-color has-link-color" id="h-your-path-to-exam-success-starts-here" style="font-size:48px;font-style:normal;font-weight:700;line-height:1.3"><strong>Your Path to Exam Success Starts Here</strong></h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
-<p class="has-foreground-color has-text-color has-link-color"><em>Preparing for nursing exams can be challenging, but with Nurselytic, it doesn’t have to be. Our Nursing Test Bank offers you everything you need to prepare efficiently and effectively, so you can achieve your career goals with confidence.</em></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
+<p class="has-foreground-color has-text-color has-link-color has-x-small-font-size wp-elements-371cc56d37aba4e0d381972da71f4bd4"><strong>HESI A2 Success</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-<!-- wp:column {"verticalAlignment":"center","width":"260px"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:260px"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"foregound-alt","width":100,"className":"is-style-button-hover-style-set-five","style":{"spacing":{"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|50","top":"24px","bottom":"24px"}},"border":{"radius":"80px"},"elements":{"link":{"color":{"text":"var:preset|color|foregound-alt"}}}},"fontSize":"medium"} -->
+
+
+<div class="wp-block-cover alignfull fotawp-zoom-in-up" style="border-radius:20px;padding-top:10px;padding-right:64px;padding-bottom:10px;padding-left:64px;min-height:360px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim has-background-gradient" style="background:linear-gradient(108.08deg,rgb(214,243,246) 21%,rgb(190,165,253) 98%)"></span><div class="wp-block-cover__inner-container is-layout-constrained wp-container-core-cover-is-layout-1 wp-block-cover-is-layout-constrained">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-container-core-column-is-layout-14 wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading has-heading-color-color has-text-color has-link-color wp-elements-4ae4d4b2981005b1e8e820a98339f90a" id="h-your-path-to-exam-success-starts-here" style="font-size:48px;font-style:normal;font-weight:700;line-height:1.3"><strong>Your Path to Exam Success Starts Here</strong></h2>
+
+
+
+<p class="has-foreground-color has-text-color has-link-color wp-elements-d37863878eb12254e8c3dd93551d0c6d"><em>Preparing for nursing exams can be challenging, but with Nurselytic, it doesn’t have to be. Our Nursing Test Bank offers you everything you need to prepare efficiently and effectively, so you can achieve your career goals with confidence.</em></p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:260px">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
 <div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-button-hover-style-set-five has-medium-font-size"><a class="wp-block-button__link has-foregound-alt-color has-primary-background-color has-text-color has-background has-link-color wp-element-button" href="https://nurselytic.com/accounts/signup.php" style="border-radius:80px;padding-top:24px;padding-right:var(--wp--preset--spacing--50);padding-bottom:24px;padding-left:var(--wp--preset--spacing--50)">Join Nurselytic</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
-<!-- /wp:cover -->
+</div>
+</div>
+</div>
+</div></div>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"120px","right":"var:preset|spacing|40","bottom":"120px","left":"var:preset|spacing|40"}},"background":{"backgroundImage":{"url":"https://nurselytic.com/wp-content/uploads/2024/11/Featured-Articles.png","id":97,"source":"file","title":"Featured-Articles.png"},"backgroundSize":"cover"}},"gradient":"fade-gradient","layout":{"type":"constrained","contentSize":""}} -->
-<div class="wp-block-group alignfull has-fade-gradient-gradient-background has-background" style="padding-top:120px;padding-right:var(--wp--preset--spacing--40);padding-bottom:120px;padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"1180px"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"45%","className":"fotawp-fade-up","style":{"spacing":{"padding":{"top":"0"}}}} -->
-<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up" style="padding-top:0;flex-basis:45%"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|20"}},"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"48px","lineHeight":"1.2"}},"textColor":"heading-color"} -->
+
+
+<div class="wp-block-group alignfull has-fade-gradient-gradient-background has-background is-layout-constrained wp-container-core-group-is-layout-17 wp-block-group-is-layout-constrained" style="padding-top:120px;padding-right:var(--wp--preset--spacing--40);padding-bottom:120px;padding-left:var(--wp--preset--spacing--40);background-image:url(&#039;https://nurselytic.com/wp-content/uploads/2024/11/Featured-Articles.png&#039;);background-size:cover;">
+<div class="wp-block-group is-layout-constrained wp-container-core-group-is-layout-16 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center fotawp-fade-up is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0;flex-basis:45%">
 <h2 class="wp-block-heading has-heading-color-color has-text-color" id="h-more-reasons-to-join-nurselytic" style="margin-top:var(--wp--preset--spacing--20);font-size:48px;font-style:normal;font-weight:700;line-height:1.2"><strong>More Reasons to Join Nurselytic</strong></h2>
-<!-- /wp:heading -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:list {"className":"is-style-fotawp-list-style-square","style":{"typography":{"lineHeight":"2.2","fontSize":"18px"},"spacing":{"margin":{"top":"24px","right":"0","left":"0"},"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"0","right":"0"}}}} -->
-<ul style="margin-top:24px;margin-right:0;margin-left:0;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0;font-size:18px;line-height:2.2" class="wp-block-list is-style-fotawp-list-style-square"><!-- wp:list-item -->
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<ul style="margin-top:24px;margin-right:0;margin-left:0;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0;font-size:18px;line-height:2.2" class="wp-block-list is-style-fotawp-list-style-square">
 <li><strong>Flexible Study Schedules</strong>: Study on your own time, set goals, and track your progress easily with our intuitive platform.</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
+
+
 <li><strong>Regular Updates</strong>: Our content is regularly reviewed and updated to match the latest exam standards and ensure you’re always studying the most relevant material.</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
+
+
 <li><strong>Affordable Pricing:</strong>We believe in affordable education. Nurselytic offers competitive pricing, so you get top-quality resources without breaking the bank.</li>
-<!-- /wp:list-item -->
 
-<!-- wp:list-item -->
+
+
 <li><strong>100% Money-Back Guarantee</strong>:We stand by our content. If you’re not satisfied with our resources, you’re covered by our money-back guarantee.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
+</ul>
+</div>
+</div>
 
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":3676,"sizeSlug":"full","linkDestination":"none","className":"fotawp-zoom-in-up","style":{"color":{"duotone":"unset"}},"UAGHideMob":true,"UAGResponsiveConditions":true} -->
-<figure class="wp-block-image size-full fotawp-zoom-in-up uag-hide-mob"><img src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/about_image.png" alt="" class="wp-image-3676"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
 
-<!-- wp:uagb/container {"block_id":"zizpml3s","backgroundType":"color","backgroundColor":"var(\u002d\u002dast-global-color-5)","topPaddingDesktop":112,"bottomPaddingDesktop":112,"leftPaddingDesktop":40,"rightPaddingDesktop":40,"topPaddingTablet":80,"bottomPaddingTablet":80,"leftPaddingTablet":32,"rightPaddingTablet":32,"topPaddingMobile":64,"bottomPaddingMobile":64,"leftPaddingMobile":24,"rightPaddingMobile":24,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":0,"topMarginMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"variationSelected":true,"rowGapDesktop":48,"rowGapTablet":40,"rowGapMobile":40,"columnGapDesktop":0,"columnGapTablet":0,"columnGapMobile":0,"isBlockRootParent":true} -->
-<div class="wp-block-uagb-container uagb-block-zizpml3s alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:uagb/advanced-heading {"block_id":"otoy5a3d","classMigrate":true,"headingDescToggle":true,"headingColor":"var(\u002d\u002dast-global-color-2)","subHeadingColor":"var(\u002d\u002dast-global-color-3)","headSpace":20,"headSpaceMobile":12,"headSpaceTablet":16,"subHeadSpace":0} -->
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full fotawp-zoom-in-up uag-hide-mob wp-duotone-unset-4"><img decoding="async" src="https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/about_image.png" alt="" class="wp-image-3676"/></figure>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-uagb-container uagb-block-zizpml3s alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-advanced-heading uagb-block-otoy5a3d"><h2 class="uagb-heading-text">Frequently Asked Questions</h2><p class="uagb-desc-text">Find answers to commonly asked questions about our products and services.</p></div>
-<!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/container {"block_id":"0rakqbej","directionDesktop":"row","alignItemsDesktop":"stretch","alignItemsTablet":"stretch","alignItemsMobile":"stretch","topPaddingDesktop":0,"bottomPaddingDesktop":0,"leftPaddingDesktop":0,"rightPaddingDesktop":0,"topPaddingTablet":0,"bottomPaddingTablet":0,"leftPaddingTablet":0,"rightPaddingTablet":0,"topMarginDesktop":0,"bottomMarginDesktop":0,"leftMarginDesktop":0,"rightMarginDesktop":0,"topMarginTablet":0,"bottomMarginTablet":0,"leftMarginTablet":0,"rightMarginTablet":0,"topMarginMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"rightMarginMobile":0,"variationSelected":true,"rowGapDesktop":0,"rowGapTablet":0,"rowGapMobile":0,"columnGapDesktop":48,"columnGapTablet":40,"columnGapMobile":0,"equalHeight":true} -->
-<div class="wp-block-uagb-container uagb-block-0rakqbej"><!-- wp:uagb/faq {"block_id":"sdbyxudr","expandFirstItem":false,"boxBgColor":"var(\u002d\u002dast-global-color-5)","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","questionTextColor":"var(\u002d\u002dast-global-color-2)","questionTextActiveColor":"var(\u002d\u002dast-global-color-0)","questionTextBgColor":"var(\u002d\u002dast-global-color-5)","questionTextActiveBgColor":"var(\u002d\u002dast-global-color-5)","vquestionPaddingMobile":20,"vquestionPaddingTablet":20,"vquestionPaddingDesktop":20,"hquestionPaddingMobile":20,"hquestionPaddingTablet":20,"hquestionPaddingDesktop":24,"answerTextColor":"var(\u002d\u002dast-global-color-3)","iconColor":"var(\u002d\u002dast-global-color-2)","iconActiveColor":"var(\u002d\u002dast-global-color-0)","questionFontWeight":"500","questionFontSize":20,"questionFontSizeTablet":20,"questionFontSizeMobile":18,"questionLineHeight":1.5,"questionLineHeightTablet":1.5,"questionLineHeightMobile":1.5,"icon":"chevron-down","iconActive":"chevron-up","iconAlign":"row-reverse","iconSize":16,"schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://websitedemos.net/astra-blocks/faq-04/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022How can I place an order?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022To place an order, simply browse our website, select your desired items, and proceed to the checkout page. Follow the prompts to provide your shipping and payment information, and your order will be processed.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What payment methods do you accept?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022We accept various payment methods, including credit/debit cards, PayPal, and bank transfers. At checkout, you will have the option to choose your preferred payment method.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022How long does shipping take?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Shipping times vary depending on your location. Typically, orders are processed within 1-2 business days, and delivery can take anywhere from 3-10 business days. You will receive a tracking number once your order has been shipped.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022Do you offer international shipping?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, we offer international shipping to selected countries. During the checkout process, you will be able to see if your country is eligible for shipping. Please note that additional customs fees or taxes may apply upon delivery, which are the responsibility of the recipient.\u0022}}]}","questionLeftPaddingTablet":20,"questionBottomPaddingTablet":20,"questionLeftPaddingDesktop":24,"questionBottomPaddingDesktop":20,"questionLeftPaddingMobile":20,"questionBottomPaddingMobile":20,"headingTag":"p","answerTopPadding":0,"answerRightPadding":24,"answerBottomPadding":20,"answerLeftPadding":24,"answerTopPaddingTablet":0,"answerRightPaddingTablet":20,"answerBottomPaddingTablet":20,"answerLeftPaddingTablet":20,"answerTopPaddingMobile":0,"answerRightPaddingMobile":20,"answerBottomPaddingMobile":20,"answerLeftPaddingMobile":20,"overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":4,"overallBorderTopRightRadius":4,"overallBorderBottomLeftRadius":4,"overallBorderBottomRightRadius":4,"overallBorderStyle":"solid","overallBorderColor":"var(\u002d\u002dast-global-color-6)"} -->
-<!-- wp:uagb/faq-child {"block_id":"3n6s7zvc","question":"\u003cstrong\u003eWhat exams does the Nurselytic test bank cover?\u003c/strong\u003e","answer":"Nurselytic offers \u003ca href=\u0022https://nurselytic.com/library/\u0022\u003estudy materials\u003c/a\u003e for ATI TEAS 7, HESI A2, ATI Exams, HESI Exams, NCLEX PN, and NCLEX RN, covering all major areas of nursing education.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
 
-<!-- wp:uagb/faq-child {"block_id":"dm5zgjwt","question":"\u003cstrong\u003eHow often is the content updated?\u003c/strong\u003e","answer":"Our content is reviewed and updated regularly by nursing professionals to reflect the most current exam standards.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
 
-<!-- wp:uagb/faq-child {"block_id":"nkwc5eau","question":"\u003cstrong\u003eWhat makes Nurselytic different from other test prep resources?\u003c/strong\u003e","answer":"We provide a comprehensive, user-friendly platform with in-depth explanations, progress tracking, and support from nursing experts to make your exam prep efficient and effective.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
+<div class="wp-block-uagb-container uagb-block-0rakqbej"><div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-sdbyxudr uagb-faq-icon-row-reverse uagb-faq-layout-accordion uagb-faq-expand-first-false uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height     " data-faqtoggle="true" role="tablist"><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-3n6s7zvc " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>What exams does the Nurselytic test bank cover?</strong></p></div><div class="uagb-faq-content"><p>Nurselytic offers <a href="https://nurselytic.com/library/">study materials</a> for ATI TEAS 7, HESI A2, ATI Exams, HESI Exams, NCLEX PN, and NCLEX RN, covering all major areas of nursing education.</p></div></div><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dm5zgjwt " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>How often is the content updated?</strong></p></div><div class="uagb-faq-content"><p>Our content is reviewed and updated regularly by nursing professionals to reflect the most current exam standards.</p></div></div><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-nkwc5eau " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>What makes Nurselytic different from other test prep resources?</strong></p></div><div class="uagb-faq-content"><p>We provide a comprehensive, user-friendly platform with in-depth explanations, progress tracking, and support from nursing experts to make your exam prep efficient and effective.</p></div></div><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ixtttrgx " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>Can I track my progress?</strong></p></div><div class="uagb-faq-content"><p>Yes! Our platform includes built-in progress tracking tools that let you see your improvement over time.</p></div></div></div>
 
-<!-- wp:uagb/faq-child {"block_id":"ixtttrgx","question":"\u003cstrong\u003eCan I track my progress?\u003c/strong\u003e","answer":"Yes! Our platform includes built-in progress tracking tools that let you see your improvement over time.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
-<!-- /wp:uagb/faq -->
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-zep8kwiv uagb-faq-icon-row-reverse uagb-faq-layout-accordion uagb-faq-expand-first-false uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height     " data-faqtoggle="true" role="tablist"><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-gmb17rru " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>Is Nurselytic right for me?</strong></p></div><div class="uagb-faq-content"><p>If you’re preparing for nursing exams and want a high-quality, reliable study resource, Nurselytic is built for you. Join thousands of successful nursing students who’ve prepared for exams with our test bank.</p></div></div><div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-hidwwlhw " role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions">			<span class="uagb-icon uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						<span class="uagb-icon-active uagb-faq-icon-wrap">
+								<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 448 512"><path d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"></path></svg>
+							</span>
+			<p class="uagb-question"><strong>Have more questions?</strong></p></div><div class="uagb-faq-content"><p>Contact us anytime through our support page or by emailing us. We’re here to help you succeed.</p></div></div></div></div>
+</div></div>
 
-<!-- wp:uagb/faq {"block_id":"zep8kwiv","expandFirstItem":false,"boxBgColor":"var(\u002d\u002dast-global-color-5)","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","questionTextColor":"var(\u002d\u002dast-global-color-2)","questionTextActiveColor":"var(\u002d\u002dast-global-color-0)","questionTextBgColor":"var(\u002d\u002dast-global-color-5)","questionTextActiveBgColor":"var(\u002d\u002dast-global-color-5)","vquestionPaddingMobile":20,"vquestionPaddingTablet":20,"vquestionPaddingDesktop":20,"hquestionPaddingMobile":20,"hquestionPaddingTablet":20,"hquestionPaddingDesktop":24,"answerTextColor":"var(\u002d\u002dast-global-color-3)","iconColor":"var(\u002d\u002dast-global-color-2)","iconActiveColor":"var(\u002d\u002dast-global-color-0)","questionFontWeight":"500","questionFontSize":20,"questionFontSizeTablet":20,"questionFontSizeMobile":18,"questionLineHeight":1.5,"questionLineHeightTablet":1.5,"questionLineHeightMobile":1.5,"icon":"chevron-down","iconActive":"chevron-up","iconAlign":"row-reverse","iconSize":16,"schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://websitedemos.net/astra-blocks/faq-04/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022What is your return policy?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022We have a 30-day return policy. If you are not satisfied with your purchase, you can return it for a refund or exchange within 30 days of receiving your order. Please reach out to our customer service team to initiate the return process.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022Can I track my order?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, once your order has been shipped, you will receive a tracking number via email. You can use this tracking number to track the progress of your shipment on our website or the couriers website.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022Is my personal information secure?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, we take the security of your personal information seriously. We use industry-standard encryption and security measures to protect your data. Your information will only be used for order processing and will not be shared with any third parties.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022How can I contact your customer service?\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Our customer service team is available to assist you via email, phone, or live chat. You can find our contact information on our websites Contact Us page. We strive to respond to all inquiries within 24 hours.\u0022}}]}","questionLeftPaddingTablet":20,"questionBottomPaddingTablet":20,"questionLeftPaddingDesktop":24,"questionBottomPaddingDesktop":20,"questionLeftPaddingMobile":20,"questionBottomPaddingMobile":20,"headingTag":"p","answerTopPadding":0,"answerRightPadding":24,"answerBottomPadding":20,"answerLeftPadding":24,"answerTopPaddingTablet":0,"answerRightPaddingTablet":20,"answerBottomPaddingTablet":20,"answerLeftPaddingTablet":20,"answerTopPaddingMobile":0,"answerRightPaddingMobile":20,"answerBottomPaddingMobile":20,"answerLeftPaddingMobile":20,"overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":4,"overallBorderTopRightRadius":4,"overallBorderBottomLeftRadius":4,"overallBorderBottomRightRadius":4,"overallBorderStyle":"solid","overallBorderColor":"var(\u002d\u002dast-global-color-6)"} -->
-<!-- wp:uagb/faq-child {"block_id":"gmb17rru","question":"\u003cstrong\u003eIs Nurselytic right for me?\u003c/strong\u003e","answer":"If you’re preparing for nursing exams and want a high-quality, reliable study resource, Nurselytic is built for you. Join thousands of successful nursing students who’ve prepared for exams with our test bank.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
 
-<!-- wp:uagb/faq-child {"block_id":"hidwwlhw","question":"\u003cstrong\u003eHave more questions?\u003c/strong\u003e","answer":"Contact us anytime through our support page or by emailing us. We’re here to help you succeed.","icon":"chevron-down","iconActive":"chevron-up","headingTag":"p"} /-->
-<!-- /wp:uagb/faq --></div>
-<!-- /wp:uagb/container --></div></div>
-<!-- /wp:uagb/container -->
 
-<!-- wp:cover {"url":"https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/formbg.jpg","id":3918,"hasParallax":true,"dimRatio":90,"customOverlayColor":"#0764c1","isUserOverlayColor":true,"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"31px","bottom":"31px"}}},"layout":{"type":"constrained","contentSize":"1180px"}} -->
-<div class="wp-block-cover alignfull has-parallax" style="padding-top:31px;padding-right:var(--wp--preset--spacing--40);padding-bottom:31px;padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim" style="background-color:#0764c1"></span><div class="wp-block-cover__image-background wp-image-3918 has-parallax" style="background-position:50% 50%;background-image:url(https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/formbg.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"left":"100px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"48px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.3"}},"textColor":"ast-global-color-5"} -->
-<h2 class="wp-block-heading has-text-align-center has-ast-global-color-5-color has-text-color has-link-color" id="h-connect-with-us" style="font-size:48px;font-style:normal;font-weight:700;line-height:1.3"><strong><strong>Connect with Us</strong></strong></h2>
-<!-- /wp:heading -->
+<div class="wp-block-cover alignfull has-parallax" style="padding-top:31px;padding-right:var(--wp--preset--spacing--40);padding-bottom:31px;padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim" style="background-color:#0764c1"></span><div class="wp-block-cover__image-background wp-image-3918 has-parallax" style="background-position:50% 50%;background-image:url(https://nurselytic.com/wp-content/themes/fotawp/assets/images/new/formbg.jpg)"></div><div class="wp-block-cover__inner-container is-layout-constrained wp-container-core-cover-is-layout-2 wp-block-cover-is-layout-constrained">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-container-core-column-is-layout-18 wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading has-text-align-center has-ast-global-color-5-color has-text-color has-link-color wp-elements-996753f55470e3f940723d5fb15a51a9" id="h-connect-with-us" style="font-size:48px;font-style:normal;font-weight:700;line-height:1.3"><strong><strong>Connect with Us</strong></strong></h2>
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5"} -->
-<p class="has-ast-global-color-5-color has-text-color has-link-color"><em>Join Our Community on Facebook, Twitter, Instagram, and LinkedIn. Follow our <a href="https://nurselytic.com/blog/">Blog</a> for Study Tips and Nursing Insights. Sign Up Now to start your journey with Nurselytic and reach your nursing career goals with confidence!</em></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
-<!-- /wp:cover -->
 
-<!-- wp:paragraph -->
+
+<p class="has-ast-global-color-5-color has-text-color has-link-color wp-elements-62684b8fb24f0fc202589df313580e28"><em>Join Our Community on Facebook, Twitter, Instagram, and LinkedIn. Follow our <a href="https://nurselytic.com/blog/">Blog</a> for Study Tips and Nursing Insights. Sign Up Now to start your journey with Nurselytic and reach your nursing career goals with confidence!</em></p>
+</div>
+</div>
+</div></div>
+
+
+
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:html -->
+
+
 <!--Start of Tawk.to Script
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -917,7 +1081,47 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script> -->
 <!--End of Tawk.to Script-->
-<!-- /wp:html -->
+
+	
+	
+</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright &copy; 2025 Nurselytic</p>
+</div>			</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+				<div id="zip-ai-sidebar-admin-trigger"></div>
+						<div id="zip-ai-sidebar"></div>
+		
+<div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
+	<span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
+</div>
 <style id='core-block-supports-inline-css'>
 .wp-elements-dd03932cff798bdb268ab8143cd96b26 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--primary);}.wp-container-core-group-is-layout-1 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:780px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-1 > .alignwide{max-width:780px;}.wp-container-core-group-is-layout-1 .alignfull{max-width:none;}.wp-elements-97e54238eb0ee9717e6a1ee9100641ba a:where(:not(.wp-element-button)){color:#00000099;}.wp-container-core-column-is-layout-1 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-1 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;gap:0 var(--wp--preset--spacing--80);}.wp-elements-904ee99ddb5af5a27ef31a0bac4867cb a:where(:not(.wp-element-button)){color:#00000096;}.wp-container-core-column-is-layout-4 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-4 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-elements-605764d3e38e5a9ea71796152ce05e28 a:where(:not(.wp-element-button)){color:#0000008f;}.wp-container-core-column-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-5 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-elements-d6a23091e5d517c942d354267ca41067 a:where(:not(.wp-element-button)){color:#00000096;}.wp-container-core-column-is-layout-8 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-8 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;}.wp-elements-c95cc8ae4636d8732eac1feb2cf18d56 a:where(:not(.wp-element-button)){color:#00000087;}.wp-container-core-column-is-layout-9 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-9 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;}.wp-container-core-group-is-layout-2{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-3 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:740px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-3 > .alignwide{max-width:740px;}.wp-container-core-group-is-layout-3 .alignfull{max-width:none;}.wp-elements-5ea08bc85149e5b0f79d1fd698dc8e5c a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground);}.wp-container-core-group-is-layout-4{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-5{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-6 > .alignfull{margin-right:calc(var(--wp--preset--spacing--60) * -1);margin-left:calc(var(--wp--preset--spacing--60) * -1);}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:var(--wp--preset--spacing--20);margin-block-end:0;}.wp-elements-43514ab63fd7a0b7acd7e3eafef58f6d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground);}.wp-container-core-group-is-layout-7{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-8{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-9 > .alignfull{margin-right:calc(var(--wp--preset--spacing--60) * -1);margin-left:calc(var(--wp--preset--spacing--60) * -1);}.wp-container-core-group-is-layout-9 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-9 > * + *{margin-block-start:var(--wp--preset--spacing--20);margin-block-end:0;}.wp-elements-371cc56d37aba4e0d381972da71f4bd4 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground);}.wp-container-core-group-is-layout-10{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-11{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30);}.wp-container-core-group-is-layout-12 > .alignfull{margin-right:calc(var(--wp--preset--spacing--60) * -1);margin-left:calc(var(--wp--preset--spacing--60) * -1);}.wp-container-core-group-is-layout-12 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-12 > * + *{margin-block-start:var(--wp--preset--spacing--20);margin-block-end:0;}.wp-container-core-columns-is-layout-6{flex-wrap:nowrap;gap:var(--wp--preset--spacing--60) var(--wp--preset--spacing--60);}.wp-container-core-group-is-layout-13 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-13 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-13 .alignfull{max-width:none;}.wp-container-core-group-is-layout-14 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-elements-4ae4d4b2981005b1e8e820a98339f90a a:where(:not(.wp-element-button)){color:var(--wp--preset--color--heading-color);}.wp-elements-d37863878eb12254e8c3dd93551d0c6d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--foreground);}.wp-container-core-column-is-layout-14 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-14 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-buttons-is-layout-1{justify-content:center;}.wp-container-core-columns-is-layout-7{flex-wrap:nowrap;gap:2em 100px;}.wp-container-core-cover-is-layout-1 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-cover-is-layout-1 > .alignwide{max-width:1180px;}.wp-container-core-cover-is-layout-1 .alignfull{max-width:none;}.wp-container-core-cover-is-layout-1 > .alignfull{margin-right:calc(64px * -1);margin-left:calc(64px * -1);}.wp-container-core-columns-is-layout-8{flex-wrap:nowrap;gap:var(--wp--preset--spacing--40) 0;}.wp-container-core-group-is-layout-16 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-16 > .alignwide{max-width:1180px;}.wp-container-core-group-is-layout-16 .alignfull{max-width:none;}.wp-container-core-group-is-layout-16 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-17 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}.wp-elements-996753f55470e3f940723d5fb15a51a9 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ast-global-color-5);}.wp-elements-62684b8fb24f0fc202589df313580e28 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ast-global-color-5);}.wp-container-core-column-is-layout-18 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-18 > * + *{margin-block-start:var(--wp--preset--spacing--30);margin-block-end:0;}.wp-container-core-columns-is-layout-9{flex-wrap:nowrap;gap:2em 100px;}.wp-container-core-cover-is-layout-2 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1180px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-cover-is-layout-2 > .alignwide{max-width:1180px;}.wp-container-core-cover-is-layout-2 .alignfull{max-width:none;}.wp-container-core-cover-is-layout-2 > .alignfull{margin-right:calc(var(--wp--preset--spacing--40) * -1);margin-left:calc(var(--wp--preset--spacing--40) * -1);}
 </style>
@@ -1001,6 +1205,5 @@ var kb_splide = {"i18n":{"prev":"Previous slide","next":"Next slide","first":"Go
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
-
-</body>
+				</body>
 </html>
